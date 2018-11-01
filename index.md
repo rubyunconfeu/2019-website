@@ -21,6 +21,16 @@ What exactly is an Unconference? It works like this: Everybody can propose a tal
 
 </div>
 
+<div class="content-section" markdown="1">
+
+## 2018
+
+The first Ruby Unconf Hamburg was a blast.
+<br />
+You can find the talks, pictures and everything else here: <a href="http://2018.rubyunconf.eu">2018.rubyunconf.eu</a>
+
+</div>
+
 <div class="content-section content-section--whitebg" markdown="1">
 
 ## Contact

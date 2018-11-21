@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ruby Unconf Hamburg 2018
+title: Ruby Unconf Hamburg 2019
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ruby Unconf 2018 takes place on the 5th and 6th of May 2018 in Hamburg, Germany.
+  Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the HAW Hamburg, DMI Campus Finkenau.
 keywords: ruby, unconf, conference, developers, hamburg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

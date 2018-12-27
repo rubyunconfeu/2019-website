@@ -37,8 +37,8 @@ Also, you don't have to take our word for it. Here are some recent articles from
 
 ## Public transportation
 
-The public transportation in Hamburg is done by the [HVV](http://www.hvv.de/en/index.php). The important thing to know is that you need to buy a ticket before you go on the platform and you don’t need to clock in the tickets, they are valid after you bought them. Don’t go beyond the golden lines on the ground without a ticket! For busses you can buy your ticket from the driver.
+The public transportation in Hamburg is done by the [HVV](https://www.hvv.de/en/). The important thing to know is that you need to buy a ticket before you go on the platform and you don’t need to clock in the tickets, they are valid after you bought them. Don’t go beyond the golden lines on the ground without a ticket! For busses you can buy your ticket from the driver. For trains you there is a ticket vending machin on every station. You also can also use the [HVV app or their online shop](https://www.hvv.de/en/tickets/online-shop/single-day-weekly-tickets) to purchase tickets.
 
-A 9-Uhr-Tageskarte - a ticket that is valid the whole day on weekends and in large parts of Hamburg - is the best option most of the time, even if you just take 2 rides. It costs around 6€.
+A 9-Uhr-Tageskarte - a ticket that is valid the whole day on weekends and in large parts of Hamburg - is the best option most of the time, even if you just take 2 rides. It costs around 6,40€. (It's a bit cheaper online or on the app)
 
 </div>

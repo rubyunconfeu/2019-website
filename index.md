@@ -49,6 +49,16 @@ You can find the talks, pictures and everything else here: <a href="http://2018.
 
 </div>
 
+<div class="content-section content-section--purplebg" markdown="1">
+
+## Code Of Conduct
+
+The heart of the Ruby Unconference is people. [This guideline](https://berlincodeofconduct.org/) is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.
+
+Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
+
+</div>
+
 <div class="content-section content-section--whitebg" markdown="1">
 
 ## Contact

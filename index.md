@@ -60,7 +60,9 @@ If you are the first time in Hamburg we have some tipps for getting around here 
 ## 2018
 
 The first Ruby Unconf Hamburg was a blast.
-<br />
+
+[![2018 impression](https://lh3.googleusercontent.com/n4xMai045Dd5mhbMKteHG30SBljmrolwWKhqUcgXC6a7ubVzHrqiVzEN1pVyVH3qgJqVGPgtrh22v-jKz6hkf5aEPpl0FeIJuLaHz8MYT1UhA2WK1G_NIpzWuY4n6T4wCdKQrARKbA=w1200)](//2018.rubyunconf.eu)
+
 You can find the talks, pictures and everything else here: <a href="http://2018.rubyunconf.eu">2018.rubyunconf.eu</a>
 
 </div>

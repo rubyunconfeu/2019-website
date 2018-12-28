@@ -128,14 +128,6 @@ a {
   word-wrap: break-word;
   width: 100%;
 
-  > :first-child {
-    margin-top: 0;
-  }
-
-  > :last-child {
-    margin-bottom: 0;
-  }
-
   @include large {
     padding: 2rem 6rem;
     font-size: 1.1rem;
@@ -222,7 +214,6 @@ a {
     }
   }
 
-  .highlight pre,
   pre {
     padding: 0.8rem;
     overflow: auto;
@@ -230,23 +221,23 @@ a {
     line-height: 1.45;
     border-radius: 0.3rem;
     -webkit-overflow-scrolling: touch;
-  }
 
-  pre code,
-  pre tt {
-    display: inline;
-    max-width: initial;
-    padding: 0;
-    margin: 0;
-    overflow: initial;
-    line-height: inherit;
-    word-wrap: normal;
-    background-color: transparent;
-    border: 0;
+    code,
+    tt {
+      display: inline;
+      max-width: initial;
+      padding: 0;
+      margin: 0;
+      overflow: initial;
+      line-height: inherit;
+      word-wrap: normal;
+      background-color: transparent;
+      border: 0;
 
-    &:before,
-    &:after {
-      content: normal;
+      &:before,
+      &:after {
+        content: normal;
+      }
     }
   }
 
@@ -312,26 +303,37 @@ a {
     background-color: $hr-border-color;
     border: 0;
   }
-}
 
-.content-section--whitebg {
-  background: white;
-}
-
-.content-section--purplebg {
-  background: $main-purple;
-  color: white;
-
-  h2 {
-    color: $main-orange;
+  > :first-child {
+    margin-top: 0;
   }
 
-  h3, h4, h5, h6 {
+  > :last-child {
+    margin-bottom: 0;
+  }
+
+  &--whitebg {
+    background: white;
+  }
+
+  &--purplebg {
+    background: $main-purple;
     color: white;
-  }
 
-  a {
-    color: $main-orange;
+    h2 {
+      color: $main-orange;
+    }
+
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: white;
+    }
+
+    a {
+      color: $main-orange;
+    }
   }
 }
 
@@ -349,38 +351,5 @@ footer {
 
   @include small {
     font-size: 0.9rem;
-  }
-}
-
-.site-footer-owner {
-  display: block;
-  font-weight: bold;
-}
-
-.site-footer-credits {
-  color: $blockquote-text-color;
-}
-
-.schedules-container {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  align-items: flex-start;
-  justify-content: space-between;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.schedule {
-  font-size: 0.9em;
-
-
-}
-
-.schedule table tr {
-  border-bottom: 1px solid $table-border-color;
-
-  td {
-    padding: 0.5rem 1rem 0.5rem 0rem;
   }
 }

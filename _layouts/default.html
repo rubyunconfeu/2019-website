@@ -13,30 +13,38 @@
     <link rel="icon" href="/assets/images/favicon.png" type="image/png">
   </head>
   <body>
-    <section class="page-header">
-      <div class="header-box">
-        <a href="{{ site.baseurl }}/"><img src="{{ page.logo | default: "/assets/images/header-2019.svg" }}" aria-hidden="true"></a>
-      </div>
-    </section>
+    <header>
+      <a href="{{ site.baseurl }}/"><img src="{{ page.logo | default: "/assets/images/header-2019.svg" }}" aria-hidden="true"></a>
+    </header>
 
     <section class="main-content">
       {{ content }}
 
       <footer class="content-section">
-        <p>Organized by <a href="https://www.bootev.org/">BOOT e.V.</a> (<a href="{{ site.baseurl }}{% link imprint.md %}">Imprint / Impressum</a>)</p>
         <p>
+          Organized by
+          <a href="https://www.bootev.org/">BOOT e.V.</a>
+          ‧
+          <a href="{{ site.baseurl }}{% link imprint.md %}">Imprint / Impressum</a>
+        </p>
+
+        <p class="supporting_parties">
           <a href="https://dnsimple.link/resolving-rubyunconf" >
-            <span>Resolving with<br/></span>
-            <img src="https://cdn.dnsimple.com/assets/resolving-with-us/logo-light.png" alt="DNSimple" style="display:block;margin:0;padding:0;width:100px;"/>
+            <span>Resolving with</span>
+            <img src="https://cdn.dnsimple.com/assets/resolving-with-us/logo-light.png" alt="DNSimple" />
           </a>
-        </p>
-        <p>
+
           <a href="https://www.freshworks.com/">
-            <span>Email via Freshdesk by<br/></span>
-            <img src="/assets/images/sponsors/freshworks.png" alt="Freshworks" style="display:block;margin:0;padding:0;width:150px;"/>
+            <span>Email via Freshdesk by</span>
+            <img src="/assets/images/sponsors/freshworks.png" alt="Freshworks" />
           </a>
         </p>
-        <p>Header image by <a href="https://www.flickr.com/photos/basq/32195704870/">Jens Mayer</a> used under CC BY / Modified / Thanks!</p>
+
+        <p>
+          Header image by
+          <a href="https://www.flickr.com/photos/basq/32195704870/">Jens Mayer</a>
+          used under CC BY / Modified / Thanks!
+        </p>
 
       </footer>
     </section>

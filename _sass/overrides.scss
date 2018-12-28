@@ -1,7 +1,8 @@
 body {
   background: #DBD4C4;
 }
-.page-header {
+
+header {
   background-color: $header-bg-color;
   background: $header-bg-color url(/assets/images/wasser.jpg) center center no-repeat;
   background-size: cover;
@@ -24,112 +25,28 @@ body {
   }
 }
 
-.project-tagline {
-  opacity: 1;
-}
+footer {
+  text-align: center;
 
-.tickets {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  width: 100%;
-  max-width: $content-max-width;
-  margin: 0 auto;
-}
-
-.tickets__list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-
-  @include large {
+  .supporting_parties {
+    display: flex;
+    width: 500px;
+    max-width: 100%;
     justify-content: space-between;
-  }
 
-  @include medium {
-    justify-content: center;
-  }
+    a {
+      display: block;
 
-  @include small {
-    justify-content: center;
-  }
-}
-
-.content-section .ticket:first-child { /* reset layout default */
-  margin-top: 8px;
-}
-
-.ticket {
-  width: 208px;
-  height: 192px;
-  border: 8px solid white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  font-family: "Roboto Mono", sans-serif;
-  font-size: 1em;
-  margin: 8px;
-}
-
-a.ticket {
-  color: white;
-}
-
-a.ticket:hover {
-  text-decoration: none;
-  background: white;
-  box-shadow: 12px 12px 0px 0px $main-orange;
-  cursor: pointer;
-  color: $main-purple;
-}
-
-.ticket__name {
-  padding: 16px 8px 0px 8px;
-}
-
-.ticket__description {
-  text-align: center;
-  font-size: 1em;
-}
-
-.ticket__price {
-  padding: 0 8px 16px 8px;
-}
-
-.sponsor__list {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.sponsor__logo {
-  flex-grow: 1;
-  text-align: center;
-  margin: 8px;
-}
-
-.sponsor__text {
-  font-family: "Roboto Mono", sans-serif;
-  margin: 8px;
-  text-align: center;
-}
-
-.sponsor__logo img {
-  max-width: 264px;
-}
-
-.sponsor__description {
-  margin: 32px 0;
-}
-
-.btn-primary {
-  background-color: #EA605F;
-  &:hover {
-    background-color: darken(#EA605F, 10%);
+      span {
+        display: block;
+      }
+      img {
+        display: block;
+        max-width: 120px;
+        max-height: 24px;
+        margin: 0 auto;
+      }
+    }
   }
 }
 

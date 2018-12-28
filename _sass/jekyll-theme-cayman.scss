@@ -132,6 +132,10 @@ a {
     margin-top: 0;
   }
 
+  > :last-child {
+    margin-bottom: 0;
+  }
+
   @include large {
     padding: 2rem 6rem;
     font-size: 1.1rem;
@@ -331,9 +335,8 @@ a {
   }
 }
 
-.site-footer {
+footer {
   padding-top: 2rem;
-  margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
 
   @include large {

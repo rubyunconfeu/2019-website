@@ -3,6 +3,16 @@ layout: "default"
 title: "Ruby Unconf Hamburg 2019"
 ---
 
+<div class="content-section content-section--purplebg" markdown="1">
+
+## 2019
+
+Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the HAW Hamburg, DMI Campus Finkenau.
+More information will follow soon.
+
+[Follow us on Twitter](https://twitter.com/RubyUnconfEU) to stay up to date.
+
+</div>
 <div class="content-section content-section--whitebg" markdown="1">
 
 ## Tickets
@@ -12,16 +22,6 @@ title: "Ruby Unconf Hamburg 2019"
 [Ticket](https://ti.to/ruby-unconf/2019) sale will start on Monday 21 January
 
 <tito-widget event="ruby-unconf/2019"></tito-widget>
-
-</div>
-<div class="content-section content-section--purplebg" markdown="1">
-
-## 2019
-
-Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the HAW Hamburg, DMI Campus Finkenau.
-More information will follow soon.
-
-[Follow us on Twitter](https://twitter.com/RubyUnconfEU) to stay up to date.
 
 </div>
 <div class="content-section" markdown="1">

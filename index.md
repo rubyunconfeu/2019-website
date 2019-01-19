@@ -3,7 +3,7 @@ layout: "default"
 title: "Ruby Unconf Hamburg 2019"
 ---
 
-<div class="content-section content-section--whitebg" markdown="1">
+<div class="content-section content-section--purplebg" markdown="1">
 
 ## 2019
 
@@ -13,7 +13,18 @@ More information will follow soon.
 [Follow us on Twitter](https://twitter.com/RubyUnconfEU) to stay up to date.
 
 </div>
-<div class="content-section content-section--purplebg" markdown="1">
+<div class="content-section content-section--whitebg" markdown="1">
+
+## Tickets
+
+### with all tickets you gain access to both conference days as well as free food, drinks and entry to the party.
+
+[Ticket](https://ti.to/ruby-unconf/2019) sale will start on Monday 21 January
+
+<tito-widget event="ruby-unconf/2019"></tito-widget>
+
+</div>
+<div class="content-section" markdown="1">
 
 ## Unconf you say?
 

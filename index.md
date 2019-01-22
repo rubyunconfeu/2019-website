@@ -19,9 +19,9 @@ More information will follow soon.
 
 ### with all tickets you gain access to both conference days as well as free food, drinks and entry to the party.
 
-[Ticket](https://ti.to/ruby-unconf/2019) sale will start on Monday 21 January
-
 <tito-widget event="ruby-unconf/2019"></tito-widget>
+
+Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/ruby-unconf/2019)
 
 </div>
 <div class="content-section" markdown="1">

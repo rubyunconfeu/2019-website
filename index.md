@@ -24,7 +24,18 @@ More information will follow soon.
 Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/ruby-unconf/2019)
 
 </div>
-<div class="content-section" markdown="1">
+<div class="content-section content-section" markdown="1">
+
+## Diversity
+
+Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities and people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2019 ticket.
+
+With the purchase of a diversity ticket you help us to make this happen.
+
+The application form for diversity tickets will be available soon.
+
+</div>
+<div class="content-section content-section--purplebg" markdown="1">
 
 ## Unconf you say?
 

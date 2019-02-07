@@ -23,6 +23,10 @@ More information will follow soon.
 
 Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/ruby-unconf/2019)
 
+*What are diversity tickets?*
+
+Diversity tickets help us to make the Ruby Unconf an inclusive event welcoming people from diverse backgrounds. To reach our goal, we are going to allow people who are part of an underrepresented group in tech or who can't afford to pay a ticket to obtain a free diversity ticket and/or cover their travel costs.
+
 </div>
 <div class="content-section" markdown="1">
 

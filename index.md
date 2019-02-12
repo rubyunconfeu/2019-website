@@ -35,8 +35,23 @@ With the purchase of a diversity ticket you help us to make this happen.
 The application form for diversity tickets is [here](https://docs.google.com/forms/d/e/1FAIpQLSfMvAhzsxiKimsW6oixNoCLPOZksPCq4G0OlYLUBX0KsK5u0w/viewform).
 
 </div>
-<div class="content-section content-section--purplebg" markdown="1">
 
+<div class="content-section content-section--whitebg sponsors" markdown="1">
+
+## Sponsors
+### Gold
+
+<div class="sponsors__listing sponsors__listing--gold" markdown="1">
+[![sum.cumo](assets/images/sponsors/sumcumo.svg)](https://www.sumcumo.com/)
+</div>
+</div>
+<div class="content-section" markdown="1">
+<p>
+  We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view?usp=sharing" target="_blank">sponsors</a>!
+</p>
+</div>
+
+<div class="content-section content-section--purplebg" markdown="1">
 ## Unconf you say?
 
 What exactly is an Unconference? It works like this: Everybody can propose a talk. Everybody votes for the talks they want to see. The most voted talks will be held. You decide what will happen!
@@ -97,6 +112,22 @@ The heart of the Ruby Unconference is people. [This guideline](https://berlincod
 
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
+</div>
+
+<div class="content-section content-section--whitebg sponsors" markdown="1">
+
+## Sponsors
+
+<div class="sponsors__listing sponsors__listing--gold" markdown="1">
+[![sum.cumo](assets/images/sponsors/sumcumo.svg)](https://www.sumcumo.com/)
+[![akra](assets/images/sponsors/akra.gif)](https://www.akra.de/)
+[![Toptranslation](assets/images/sponsors/toptranslation.svg)](http://www.toptranslation.com/)
+</div>
+</div>
+<div class="content-section" markdown="1">
+<p>
+  We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view?usp=sharing" target="_blank">sponsors</a>!
+</p>
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">

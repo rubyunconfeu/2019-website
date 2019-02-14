@@ -32,7 +32,7 @@ Our scholarship program is meant to make Ruby Unconf a better unconference. We w
 
 With the purchase of a diversity ticket you help us to make this happen.
 
-The application form for diversity tickets will be available soon.
+The application form for diversity tickets is [here]({{site.baseurl}}{% link diversity-form.md %}).
 
 </div>
 <div class="content-section content-section--purplebg" markdown="1">

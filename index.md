@@ -45,6 +45,7 @@ The application form for diversity tickets is [here](https://docs.google.com/for
 [![sum.cumo](assets/images/sponsors/sumcumo.svg)](https://www.sumcumo.com/)
 </div>
 </div>
+
 <div class="content-section" markdown="1">
 <p>
   We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view?usp=sharing" target="_blank">sponsors</a>!
@@ -124,6 +125,7 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 [![Toptranslation](assets/images/sponsors/toptranslation.svg)](http://www.toptranslation.com/)
 </div>
 </div>
+
 <div class="content-section" markdown="1">
 <p>
   We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view?usp=sharing" target="_blank">sponsors</a>!

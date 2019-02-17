@@ -22,7 +22,13 @@ More information will follow soon.
 <tito-widget event="ruby-unconf/2019"></tito-widget>
 
 Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/ruby-unconf/2019)
+<div class="content-section content-section--whitebg" markdown="1">
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
+  </div>
+  <div class="sponsor__text">Gold Sponsors </div>
 
+  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
 <div class="content-section content-section" markdown="1">
 
@@ -35,23 +41,13 @@ With the purchase of a diversity ticket you help us to make this happen.
 The application form for diversity tickets is [here](https://docs.google.com/forms/d/e/1FAIpQLSfMvAhzsxiKimsW6oixNoCLPOZksPCq4G0OlYLUBX0KsK5u0w/viewform).
 
 </div>
-
-<div class="content-section content-section--whitebg sponsors" markdown="1">
-
-## Sponsors
-### Gold
-
-<div class="sponsors__listing sponsors__listing--gold" markdown="1">
-[![sum.cumo](assets/images/sponsors/sumcumo.svg)](https://www.sumcumo.com/)
+<div class="content-section content-section--whitebg" markdown="1">
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+  </div>
+  <div class="sponsor__text">Silver Sponsors </div>
+  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
-</div>
-
-<div class="content-section" markdown="1">
-<p>
-  We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view?usp=sharing" target="_blank">sponsors</a>!
-</p>
-</div>
-
 <div class="content-section content-section--purplebg" markdown="1">
 ## Unconf you say?
 
@@ -93,6 +89,15 @@ Getting to Hamburg is easy - the Wikivoyage travel guide sums up everything you 
 If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here. Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
 
 </div>
+<div class="content-section content-section--whitebg" markdown="1">
+  <div class="sponsor__list">
+  <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+  <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.gif"></a>
+  <a class="sponsor__logo" href="https://www.lokalportal.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/lokalportal.png"></a>
+  </div>
+  <div class="sponsor__text">Bronze Sponsors </div>
+  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+</div>
 <div class="content-section" markdown="1">
 
 ## 2018
@@ -105,6 +110,13 @@ You can find the talks, pictures and everything else [here](/2018)
 
 </div>
 
+<div class="content-section content-section--whitebg" markdown="1">
+  <div class="sponsor__list">
+  </div>
+  <div class="sponsor__text">Community Sponsors </div>
+  <div class="sponsor__text"><a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">Want to become a community supporter?</a>!</div>
+</div>
+
 <div class="content-section content-section--purplebg" markdown="1">
 
 ## Code Of Conduct
@@ -113,23 +125,6 @@ The heart of the Ruby Unconference is people. [This guideline](https://berlincod
 
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
-</div>
-
-<div class="content-section content-section--whitebg sponsors" markdown="1">
-
-## Sponsors
-
-<div class="sponsors__listing sponsors__listing--gold" markdown="1">
-[![sum.cumo](assets/images/sponsors/sumcumo.svg)](https://www.sumcumo.com/)
-[![akra](assets/images/sponsors/akra.gif)](https://www.akra.de/)
-[![Toptranslation](assets/images/sponsors/toptranslation.svg)](http://www.toptranslation.com/)
-</div>
-</div>
-
-<div class="content-section" markdown="1">
-<p>
-  We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view?usp=sharing" target="_blank">sponsors</a>!
-</p>
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">

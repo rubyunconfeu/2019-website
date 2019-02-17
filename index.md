@@ -28,7 +28,7 @@ Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/r
   </div>
   <div class="sponsor__text">Gold Sponsors </div>
 
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
 </div>
 <div class="content-section content-section" markdown="1">
 
@@ -46,7 +46,7 @@ The application form for diversity tickets is [here](https://docs.google.com/for
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
 </div>
 <div class="content-section content-section--purplebg" markdown="1">
 ## Unconf you say?
@@ -96,7 +96,7 @@ If you are the first time in Hamburg we have some tipps for getting around here 
   <a class="sponsor__logo" href="https://www.lokalportal.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/lokalportal.png"></a>
   </div>
   <div class="sponsor__text">Bronze Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
 </div>
 <div class="content-section" markdown="1">
 
@@ -114,7 +114,7 @@ You can find the talks, pictures and everything else [here](/2018)
   <div class="sponsor__list">
   </div>
   <div class="sponsor__text">Community Sponsors </div>
-  <div class="sponsor__text"><a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">Want to become a community supporter?</a>!</div>
+  <div class="sponsor__text"><a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Want to become a community supporter?</a>!</div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

@@ -43,7 +43,17 @@ With the purchase of a diversity ticket you help us to make this happen.
 The application form for diversity tickets is [here](https://docs.google.com/forms/d/e/1FAIpQLSfMvAhzsxiKimsW6oixNoCLPOZksPCq4G0OlYLUBX0KsK5u0w/viewform).
 
 </div>
+<div class="content-section content-section" markdown="1">
 
+## Accessability
+
+### Need Help?
+Mail: [tbd](mailto://tbd)
+
+
+Ruby Unconf is an inclusive unconference and as such strives to be accessible to everyone. See our full accessability statement here: [Accessability Statement]({{site.baseurl}}{% link accessability.md %})
+
+</div>
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>

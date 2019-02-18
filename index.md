@@ -24,7 +24,7 @@ More information will follow soon.
 Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/ruby-unconf/2019)
 </div>
 
-<div class="content-section content-section--whitebg" markdown="1">
+<div class="content-section" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
   </div>
@@ -33,7 +33,7 @@ Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/r
   <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
 </div>
 
-<div class="content-section content-section" markdown="1">
+<div class="content-section content-section--purplebg" markdown="1">
 ## Diversity
 
 Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities and people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2019 ticket.
@@ -60,7 +60,7 @@ What exactly is an Unconference? It works like this: Everybody can propose a tal
 **Read more: <a href="https://gist.github.com/robertkowalski/8b21484c517c54d9b80aeba1d43864c9">What is an Unconference</a>**
 </div>
 
-<div class="content-section content-section--whitebg" markdown="1">
+<div class="content-section content-section" markdown="1">
 ## Venue
 
 In 2019 we're hosted again by the <a href="https://www.haw-hamburg.de/english/about-us/faculties-departments/design-media-information.html">Hamburg University of Applied Sciences, Faculty of Design, Media and Information</a>.
@@ -84,13 +84,6 @@ The Venue is right next to the Eilbekkanal, a channel that runs directly to the 
 Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls which includes a cinema (if you don't like partying on saturday night, for example) - Be warned though, all movies there are probably shown in german.
 </div>
 
-<div class="content-section content-section--purplebg" markdown="1">
-## Hamburg
-Getting to Hamburg is easy - the Wikivoyage travel guide sums up everything you need to know about getting to and getting around Hamburg, finding a place to stay or even moving here: [Wikivoyage - Hamburg](https://en.wikivoyage.org/wiki/Hamburg)
-
-If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here. Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
-</div>
-
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
   <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
@@ -99,6 +92,13 @@ If you are the first time in Hamburg we have some tipps for getting around here 
   </div>
   <div class="sponsor__text">Bronze Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
+</div>
+
+<div class="content-section content-section--purplebg" markdown="1">
+## Hamburg
+Getting to Hamburg is easy - the Wikivoyage travel guide sums up everything you need to know about getting to and getting around Hamburg, finding a place to stay or even moving here: [Wikivoyage - Hamburg](https://en.wikivoyage.org/wiki/Hamburg)
+
+If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here. Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
 </div>
 
 <div class="content-section" markdown="1">

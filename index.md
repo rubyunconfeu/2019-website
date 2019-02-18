@@ -22,6 +22,8 @@ More information will follow soon.
 <tito-widget event="ruby-unconf/2019"></tito-widget>
 
 Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/ruby-unconf/2019)
+</div>
+
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>

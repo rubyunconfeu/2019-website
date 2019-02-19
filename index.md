@@ -115,7 +115,7 @@ You can find the talks, pictures and everything else [here](/2018)
   <div class="sponsor__list">
   </div>
   <div class="sponsor__text">Community Sponsors </div>
-  <div class="sponsor__text"><a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Want to become a community supporter?</a>!</div>
+  <div class="sponsor__text"><a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Want to become a community supporter?!</a></div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

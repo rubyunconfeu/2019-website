@@ -124,3 +124,25 @@ table {
     }
   }
 }
+.sponsor__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sponsor__logo {
+  flex-grow: 1;
+  text-align: center;
+  margin: 8px;
+}
+
+.sponsor__text {
+  font-family: "Roboto Mono", sans-serif;
+  margin: 8px;
+  text-align: center;
+}
+
+.sponsor__logo img {
+  max-width: 264px;
+}

@@ -45,13 +45,13 @@ The application form for diversity tickets is [here](https://docs.google.com/for
 </div>
 <div class="content-section content-section" markdown="1">
 
-## Accessability
+## Accessibility
 
 ### Need Help?
 Mail: [team@rubyunconf.eu](mailto:team@rubyunconf.eu)
 
 
-Ruby Unconf is an inclusive unconference and as such strives to be accessible to everyone. See our full accessability statement here: [Accessability Statement]({{site.baseurl}}{% link accessability.md %})
+Ruby Unconf is an inclusive unconference and as such strives to be accessible to everyone. See our full accessibility statement here: [Accessibility Statement]({{site.baseurl}}{% link accessibility.md %})
 
 </div>
 <div class="content-section content-section--whitebg" markdown="1">

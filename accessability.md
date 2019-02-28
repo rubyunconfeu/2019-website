@@ -9,7 +9,7 @@ title: "Ruby Unconf Hamburg 2019 Accessability Statement"
 
 ### Need help?
 
-Mail: [tbd](mailto://tbd)
+Mail: [team@rubyunconf.eu](mailto:team@rubyunconf.eu)
 
 The Ruby Unconf is an inclusive conference and aims to be accessible to everyone. This includes:
 
@@ -19,7 +19,7 @@ The Ruby Unconf is an inclusive conference and aims to be accessible to everyone
 * Providing quiet spaces for people with sensory issues, or simply in need of a break.
 * Access to non-gendered toilets.
 * Serving a wide range of food and special requests.
-* An all-around help hotline during the time of the conference: <include number here>
+* An all-around help hotline will be available during the time of the conference
 
 Please be aware that we are not able to offer live transcription.
 

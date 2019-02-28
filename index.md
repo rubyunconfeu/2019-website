@@ -48,7 +48,7 @@ The application form for diversity tickets is [here](https://docs.google.com/for
 ## Accessability
 
 ### Need Help?
-Mail: [tbd](mailto://tbd)
+Mail: [team@rubyunconf.eu](mailto:team@rubyunconf.eu)
 
 
 Ruby Unconf is an inclusive unconference and as such strives to be accessible to everyone. See our full accessability statement here: [Accessability Statement]({{site.baseurl}}{% link accessability.md %})

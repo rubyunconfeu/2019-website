@@ -13,7 +13,7 @@ Mail: [team@rubyunconf.eu](mailto:team@rubyunconf.eu)
 
 The Ruby Unconf is an inclusive conference and aims to be accessible to everyone. This includes:
 
-* Providing diversity tickets and support via our [diversity form](https://docs.google.com/forms/d/e/1FAIpQLSfMvAhzsxiKimsW6oixNoCLPOZksPCq4G0OlYLUBX0KsK5u0w/viewform)
+* Providing diversity tickets and support via our [diversity form](https://docs.google.com/forms/d/e/1FAIpQLSfMvAhzsxiKimsW6oixNoCLPOZksPCq4G0OlYLUBX0KsK5u0w/viewform).
 * Ensuring all our venues are accessible by wheelchair.
 * Providing clear signage to, from and through the building.
 * Providing quiet spaces for people with sensory issues, or simply in need of a break.

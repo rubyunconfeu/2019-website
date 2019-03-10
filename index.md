@@ -16,7 +16,7 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
 
 ## Tickets
 
-### with all tickets you gain access to both conference days as well as free food, drinks and entry to the party.
+#### With all tickets you gain access to both conference days as well as free food, drinks and entry to the party.
 
 <tito-widget event="ruby-unconf/2019"></tito-widget>
 

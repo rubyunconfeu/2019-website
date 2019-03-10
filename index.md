@@ -26,11 +26,11 @@ Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/r
 
 <div class="content-section" markdown="1">
   <div class="sponsor__list">
-    <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
+    <a class="sponsor__logo" href="https://www.sumcumo.com/"><img src="assets/images/sponsors/sumcumo.svg"></a>
     <a class="sponsor__logo" href="https://www.xing.com/"><img src="assets/images/sponsors/xing.svg"></a>
   </div>
   <div class="sponsor__text">Gold Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view">sponsors</a>!</div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
@@ -56,11 +56,11 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
 </div>
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
-    <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+    <a class="sponsor__logo" href="https://www.wlw.de/"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
     <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view">sponsors</a>!</div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
@@ -97,9 +97,9 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
 
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
-    <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
-    <a class="sponsor__logo" href="https://www.akra.de/" target="_blank"><img src="assets/images/sponsors/akra.gif"></a>
-    <a class="sponsor__logo" href="https://lokalportal.de" target="_blank"><img src="assets/images/sponsors/lokalportal.png"></a>
+    <a class="sponsor__logo" href="http://www.toptranslation.com/"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+    <a class="sponsor__logo" href="https://www.akra.de/"><img src="assets/images/sponsors/akra.gif"></a>
+    <a class="sponsor__logo" href="https://lokalportal.de"><img src="assets/images/sponsors/lokalportal.png"></a>
     <a class="sponsor__logo" href="https://daliaresearch.com"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
     <a class="sponsor__logo" href="https://www.megorei.com"><img src="assets/images/sponsors/megorei.svg"></a>
     <a class="sponsor__logo" href="https://9elements.com"><img src="assets/images/sponsors/9elements.svg"></a>
@@ -109,7 +109,7 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
   </div>
   <div class="sponsor__text">
     We are looking for more
-    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!
+    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view">sponsors</a>!
   </div>
 </div>
 
@@ -135,7 +135,7 @@ You can find the talks, pictures and everything else [here](/2018)
     <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19"><img src="assets/images/sponsors/stickermule.svg"></a>
   </div>
   <div class="sponsor__text">Community Sponsors </div>
-  <div class="sponsor__text"><a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Want to become a community supporter?!</a></div>
+  <div class="sponsor__text"><a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view">Want to become a community supporter?!</a></div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

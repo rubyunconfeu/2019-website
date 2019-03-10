@@ -3,9 +3,27 @@ body {
 }
 
 header {
+  flex-direction: column;
   background-color: $header-bg-color;
   background: $header-bg-color url(/assets/images/wasser.jpg) center center no-repeat;
   background-size: cover;
+
+  nav {
+    font-size: 21px;
+    height: 100%;
+    margin: 0 0 20px 0;
+    padding: 0;
+
+    .menu-item {
+      margin: 0 10px;
+      display: inline-block;
+      min-width: 100px;
+    }
+  }
+
+  @include large {
+    padding: 3rem 6rem 4rem;
+  }
 }
 
 .content-section {

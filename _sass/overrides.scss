@@ -135,14 +135,15 @@ table {
   flex-grow: 1;
   text-align: center;
   margin: 8px;
+  min-width: 200px;
+
+  img {
+    max-width: 264px;
+  }
 }
 
 .sponsor__text {
   font-family: "Roboto Mono", sans-serif;
   margin: 8px;
   text-align: center;
-}
-
-.sponsor__logo img {
-  max-width: 264px;
 }

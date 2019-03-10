@@ -7,8 +7,7 @@ title: "Ruby Unconf Hamburg 2019"
 
 ## 2019
 
-Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the HAW Hamburg, DMI Campus Finkenau.
-More information will follow soon.
+Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Hamburg, DMI Campus Finkenau](#venue).
 
 [Follow us on Twitter](https://twitter.com/RubyUnconfEU) to stay up to date.
 

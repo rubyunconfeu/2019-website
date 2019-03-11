@@ -31,6 +31,7 @@ plugins:
   - jekyll-target-blank
 
 target-blank:
+  css_class: sponsor__logo
   noreferrer: false
 
 # Exclude from processing.

@@ -8,6 +8,19 @@ header {
   background-size: cover;
 }
 
+nav {
+  background: $main-purple;
+  color: white;
+  text-align: center;
+
+  a {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: white;
+  }
+}
+
 .content-section {
   h1,
   h2,

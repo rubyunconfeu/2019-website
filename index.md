@@ -58,6 +58,7 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
     <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+    <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>

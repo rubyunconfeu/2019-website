@@ -39,7 +39,7 @@ Our scholarship program is meant to make Ruby Unconf a better unconference. We w
 
 With the purchase of a diversity ticket you help us to make this happen.
 
-The application form for diversity tickets is [here](https://docs.google.com/forms/d/e/1FAIpQLSfMvAhzsxiKimsW6oixNoCLPOZksPCq4G0OlYLUBX0KsK5u0w/viewform).
+The application form is now offline, applicants will be informed until March 29th.
 
 </div>
 <div class="content-section content-section" markdown="1">

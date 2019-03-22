@@ -3,9 +3,45 @@ body {
 }
 
 header {
+  flex-direction: column;
   background-color: $header-bg-color;
   background: $header-bg-color url(/assets/images/wasser.jpg) center center no-repeat;
   background-size: cover;
+
+  nav {
+    font-size: 1.2rem;
+    min-height: 3rem;
+    margin: 0 0 1rem 0;
+    padding: 0;
+
+    .menu-item {
+      margin: 0 2vw;
+      display: inline-block;
+    }
+
+    .menu-button {
+      padding: 0 2vw;
+      color: white;
+      background-color: $main-purple;
+      border: 3px solid $main-purple;
+      border-radius: .25rem;
+      text-decoration: none;
+
+      &:hover {
+        color: $main-purple;
+        background-color: transparent;
+        transition: all .25s ease-out;
+      }
+    }
+  }
+
+  @include large {
+    padding: 2rem 6rem 4rem;
+  }
+
+  @include medium {
+    padding: 2rem 4rem;
+  }
 }
 
 .content-section {

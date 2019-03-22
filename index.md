@@ -54,18 +54,13 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
 
 </div>
 <div class="content-section content-section--whitebg" markdown="1">
-  <div class="sponsors__listing sponsors__listing--silver" markdown="1">
-
-  [![Wer Liefert Was](assets/images/sponsors/wlw.svg)](https://www.wlw.de/)
-  [![PhraseApp](assets/images/sponsors/parrotandlogo.png)](https://phraseapp.com/)
-  [![x-ion](assets/images/sponsors/x-ion.svg)](https://www.x-ion.de/)
-
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+    <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+    <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
-  <div class="sponsor__text">
-    We are looking for more
-    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!
-  </div>
+  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

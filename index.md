@@ -66,9 +66,9 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
 <div class="content-section content-section--purplebg" markdown="1">
 ## Unconf you say?
 
-What exactly is an Unconference? It works like this: Everybody can propose a talk. Everybody votes for the talks they want to see. The most voted talks will be held. You decide what will happen!
+What exactly is an Unconference? It is an Barcamp style event. It works like this: Everybody can propose a talk. Everybody <a href="https://photos.google.com/share/AF1QipMsEs4aQYcFM8huSV0wCqM9Ad8QUOThI8OLZ-i_25YpcQIWNQ3GUGs6AmKU4n_syw/photo/AF1QipMHzGrQcK3XB7m2Zgx6vOrpytIjW8RcwYpy14uM?key=akdDRURtREoySXRveVFlcmlkUVVENHRkOWN4Yy13">votes for the talks</a> they want to see. The most voted talks will be held. You decide what will happen during the Unconference!
 
-**Read more: <a href="https://gist.github.com/robertkowalski/8b21484c517c54d9b80aeba1d43864c9">What is an Unconference</a>**
+**Read more about <a href="https://gist.github.com/robertkowalski/8b21484c517c54d9b80aeba1d43864c9">what exactly is an Unconference</a>**
 </div>
 
 <div class="content-section content-section" markdown="1">

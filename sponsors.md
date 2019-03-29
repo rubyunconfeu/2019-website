@@ -22,15 +22,14 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
     <br/>
-    sum.cumo helps lottery and insurance companies prepare their business model for the digital age. Backed by years of industry experience and a service offering tailored to digitalisation, we are able to produce quick, simple and efficient solutions for our customers - from corporations to innovative start-ups. sum.cumo is not only a partner for modern technical solutions and marketing opportunities, but also helps establish a holistic, digital company philosophy that factors in new and existing potential in companies and the rapidly-changing market. Our Specialists in Strategy, Consulting, Communication and Technology at our offices in Zurich and Hamburg look forward to expanding on the success of their Customers and executing new, innovative projects, perhaps for your company as well.
+    sum.cumo helps lottery and insurance companies prepare their business model for the digital age. Backed by years of industry experience and a service offering tailored to digitalisation, we are able to produce quick, simple and efficient solutions for our customers - from corporations to innovative start-ups. sum.cumo is not only a partner for modern technical solutions and marketing opportunities, but also helps establish a holistic, digital company philosophy that factors in new and existing potential in companies and the rapidly-changing market. Our Specialists in Strategy, Consulting, Communication and Technology at our offices in Zurich and Hamburg look forward to expanding on the success of their Customers and executing new, innovative projects, perhaps for your company as well. <a href="https://www.sumcumo.com/jobs" target="_blank">Be part of sum.cumo</a>!
   </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.xing.com/" target="_blank"><img src="assets/images/sponsors/xing.svg"></a>
     <br/>
     XING is the leading online business network in German-speaking countries. But XING is much more than just a brand – we’re also one of the largest and most active Ruby communities in Europe with over 400 software developers in Hamburg, Barcelona, Porto and Valencia.<br/>
     We come from more than 50 different countries and embrace New Work on an international level by allowing you to do what you really, really want to do in our small, self-organised teams. This gives you the freedom to think and shape your actions based on what’s best for our challenges and those of our members. While we pursue our company’s current 20% annual growth rate, we also pioneer New Work by creating true impact for our members who are faced with the onset of digitalisation, major demographic change, and entirely new values on the labour market. Our challenge unites all of our brands: XING, XING E-Recruiting, XING Events, XING Marketing solutions, kununu, kununu engage, Prescreen, HalloFreelancer, and InterNations.<br/>
-    As you can see, we are no normal company and you can be part of it as we’re looking to hire more than 130 engineers in 2019.<br/>
-    Join the challenge today!
+    As you can see, we are no normal company and you can be part of it as we’re looking to hire more than 130 engineers in 2019. <a href="https://corporate.xing.com/en/career/" target="_blank">Join the challenge today</a>!
   </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb" target="_blank"><img src="assets/images/sponsors/talent-io.png"></a>
@@ -38,7 +37,7 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     talent.io is a completely free online platform for tech professionals to be visible to top tech companies when they are ready to find their next job. It is used by over 5000 tech companies across Europe as their platform to find and contact tech professionals to join their tech teams.<br/>
     No need for a CV - simply import your LinkedIn profile, have a quick chat with your personal Talent Advocate to let them know what you are looking for and when you're ready, go live for a 4-week session on the platform while you are open to finding a new job.<br/>
     On talent.io you state your desired work location, tech stack, salary expectation and desired new position upfront, so that you are contacted only with offers that are relevant to your prior experience, and where you want to go next.<br/>
-    There are no middle-men, receive offers from hiring companies directly and transparently.
+    There are no middle-men, receive offers from hiring companies directly and transparently. <a href="https://careers.talent.io/" target="_blank">Join us</a>!
   </p>
 </div>
 

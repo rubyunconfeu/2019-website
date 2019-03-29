@@ -6,142 +6,108 @@ title: Sponsors
 <div class="content-section content-section--whitebg" markdown="1">
 
 ## Sponsors
-
-Ruby Unconf Hamburg would not be possible without our sponsors. We are very thankful for their support.
+<p>
+Ruby Unconf Hamburg would not be possible without these great companies. We are very thankful for their support.
 <br />
-Be sure to check them out!
-We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!
-
+Be sure to pay them a visit!
+</p>
+<p>
+Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring. Or check out our <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsoring packages</a>. We are looking for sponsors!
+</p>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
-## Platinum Sponsor
+
+## Gold Sponsors
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
     <br/>
     sum.cumo helps lottery and insurance companies prepare their business model for the digital age. Backed by years of industry experience and a service offering tailored to digitalisation, we are able to produce quick, simple and efficient solutions for our customers - from corporations to innovative start-ups. sum.cumo is not only a partner for modern technical solutions and marketing opportunities, but also helps establish a holistic, digital company philosophy that factors in new and existing potential in companies and the rapidly-changing market. Our Specialists in Strategy, Consulting, Communication and Technology at our offices in Zurich and Hamburg look forward to expanding on the success of their Customers and executing new, innovative projects, perhaps for your company as well.
   </p>
-
-</div>
-
-<div class="content-section" markdown="1">
-## Gold Sponsors
-
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="http://www.epages.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/epages-logo.svg" style="height:55px;"></a>
-    <br />
-    ePages is one of the world’s most popular cloud solutions for small and medium-sized online businesses. We live and breathe ecommerce.
-
-    We focus on an ecosystem of microservices for our [highly scalable and flexible ecommerce platform](https://developer.epages.com/). The backend is based on Java, SpringBoot, Docker, and Kubernetes and is decoupled via a REST API from a ReactJS frontend. That’s how we tie an attractive package for our merchants to hit the ground running.
-    And we are Ruby enthusiasts! For our in-house tools, such as provisioning, pricelist, or BI software, we rely on Ruby-based technology. Having the RubyUnconf in Hamburg is a home run for us.
+    <a class="sponsor__logo" href="https://www.xing.com/" target="_blank"><img src="assets/images/sponsors/xing.svg"></a>
+    <br/>
+    XING is the leading online business network in German-speaking countries. But XING is much more than just a brand – we’re also one of the largest and most active Ruby communities in Europe with over 400 software developers in Hamburg, Barcelona, Porto and Valencia.<br/>
+    We come from more than 50 different countries and embrace New Work on an international level by allowing you to do what you really, really want to do in our small, self-organised teams. This gives you the freedom to think and shape your actions based on what’s best for our challenges and those of our members. While we pursue our company’s current 20% annual growth rate, we also pioneer New Work by creating true impact for our members who are faced with the onset of digitalisation, major demographic change, and entirely new values on the labour market. Our challenge unites all of our brands: XING, XING E-Recruiting, XING Events, XING Marketing solutions, kununu, kununu engage, Prescreen, HalloFreelancer, and InterNations.<br/>
+    As you can see, we are no normal company and you can be part of it as we’re looking to hire more than 130 engineers in 2019.<br/>
+    Join the challenge today!
   </p>
-
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
-    <br />
-    We are developing an open environment for demand responsive transport, which is closely integrated into public transport and guarantees seamless customer mobility. From identifying useful regions and areas for operation, through providing the back-end to our user-friendly apps – we enable our partners to benefit from modern DRT solutions by seamlessly integrating ioki into already existing services. At the same time, we are prepared for the future:
-
-    Autonomous driving is an integral part of our mobility solution and we are constantly upgrading and improving our platform. This is how we make mobility accessible for everyone – anywhere, at any time.
+    <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb" target="_blank"><img src="assets/images/sponsors/talent-io.png"></a>
+    <br/>
+    talent.io is a completely free online platform for tech professionals to be visible to top tech companies when they are ready to find their next job. It is used by over 5000 tech companies across Europe as their platform to find and contact tech professionals to join their tech teams.<br/>
+    No need for a CV - simply import your LinkedIn profile, have a quick chat with your personal Talent Advocate to let them know what you are looking for and when you're ready, go live for a 4-week session on the platform while you are open to finding a new job.<br/>
+    On talent.io you state your desired work location, tech stack, salary expectation and desired new position upfront, so that you are contacted only with offers that are relevant to your prior experience, and where you want to go next.<br/>
+    There are no middle-men, receive offers from hiring companies directly and transparently.
   </p>
-
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/avocadostore.svg" style="height:55px;"></a>
-    <br />
-    Avocadostore is Germany's biggest online marketplace for sustainable products. Founded in 2010 and written in ruby on rails, today more than 600 green labels, designers and retailers are selling more than 150.000 products via avocadostore. As everything is about sustainability, all products have to match one of our ten sustainabiltiy criteria, such as "vegan", "cradle to cradle", "fair & social" and "recycling/upcycling" just to name the most common four. Avocadostore is growing fast, as are our ideas for features and ways to work in the future - not only regarding sustainability, but also technology!
-  </p>
-
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
 
-## Organization Sponsor
+## Silver Sponsors
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+    <br />
 
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+    <br />
+
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
+    <br />
+    x-ion ist der Pionier für maßgeschneiderte und rechtssichere Cloud-Infrastrukturlösungen! Als Premium-Cloud-Anbieter sind wir ein persönlicher Wegbegleiter für Geschäftskunden in die Cloud.<br/>
+    Die seit 2009 kontinuierlich wachsende x-ion GmbH versteht sich mit ihren Standorten in Hamburg und Berlin als Cloud-Anbieter für passgenaue und hochqualitative Cloud- und Infrastrukturlösungen. Zusammen mit unseren Partnern konzentrieren wir uns auf die Konzeption, Entwicklung und den Betrieb technologisch herausfordernder sowie kundenindividueller Cloud-Lösungen.<br/>
+    Als Pionier im Cloud-Business gehört die produktive Nutzung und Weiterentwicklung innovativer Technologien und Frameworks zu unserem Selbstverständnis.
+  </p>
+
+</div>
+
+<div class="content-section" markdown="1">
+
+## Party Sponsor
+  <p class="sponsor__description" markdown="1">
+    TBA
+  </p>
+
+## Coffee Sponsor
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://lokalportal.de" target="_blank"><img src="assets/images/sponsors/lokalportal.png"></a>
+  </p>
+
+## Organization Sponsor
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
   </p>
 
 </div>
 
-
-<div class="content-section" markdown="1">
-## Party Sponsor
-
-<p class="sponsor__description" markdown="1">
-  <a class="sponsor__logo" href="https://www.solarisbank.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
-  <br />
-  solarisBank is the first banking platform with a full banking license which enables
-  companies to offer their own financial products. Through APIs, partners gain access
-  to solarisBank’s modular services including payments and e-money, lending, digital
-  banking as well as services provided by integrated third party providers. Through
-  this, solarisBank creates a highly developed technological banking ecosystem for
-  fintechs, established digital companies, as well as banks and corporates.
-</p>
-
-</div>
-
 <div class="content-section content-section--whitebg" markdown="1">
 
-## Coffee Sponsor
-
-<p class="sponsor__description" markdown="1">
-  <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.gif"></a>
-</p>
-
-</div>
-
-<div class="content-section" markdown="1">
-
-## Keynote Sponsor
-
-<p class="sponsor__description" markdown="1">
-  <a class="sponsor__logo" href="https://www.xing.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/xing.svg" style="height:55px;"></a>
-  <br />
-  XING is the social network for business contacts. XING has 10.5 million users in its core German-speaking market. XING is a platform where professionals from all kinds of different industries can meet up, find jobs, colleagues, new assignments, cooperation partners, experts, generate business ideas and discover the latest industry topics. Members can meet and exchange views in over 74,000 specialist groups, while also getting together at networking events. The platform is operated by XING AG.
-</p>
-
-</div>
-
-<div class="content-section content-section--whitebg" markdown="1">
-## Silver Sponsors
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
-  </p>
-
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
-  </p>
-
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.railslove.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/railslove.svg"></a>
-  </p>
-
-  <p class="sponsor__description" markdown="1">
-  <a class="sponsor__logo" href="https://www.shopify.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/shopify.svg"></a>
-  </p>
-  <p class="sponsor__description" markdown="1">
-  <a class="sponsor__logo" href="https://9elements.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/9elements.svg"></a>
-  </p>
-</div>
-
-<div class="content-section" markdown="1">
 ## Bronze Sponsors
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
+    <a class="sponsor__logo" href="https://www.akra.de/" target="_blank"><img src="assets/images/sponsors/akra.gif"></a>
   </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://daliaresearch.com"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.megorei.com"><img src="assets/images/sponsors/megorei.svg"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://9elements.com"><img src="assets/images/sponsors/9elements.svg"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern"><img src="assets/images/sponsors/yogaeasy.png"></a>
+  </p>
+</div>
 
+<div class="content-section content-section--purplebg" markdown="1">
+
+## Community Sponsors
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/megorei.svg"></a>
-  </p>
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.opensuse.org/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/opensuse.svg"></a>
-  </p>
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://travis-ci.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/travis.png"></a>
-  </p>
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://depfu.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/depfu.png"></a>
-  </p>
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.penseo.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/penseo.svg"></a>
+    <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19"><img src="assets/images/sponsors/stickermule.svg"></a>
   </p>
 </div>

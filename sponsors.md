@@ -52,7 +52,7 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
     <br />
-
+    PhraseApp is a leading Translation Management System where localization teams come together to release translations faster and easier than ever before. PhraseApp provides a variety of features designed to improve translation quality and consistency, such as a Translation Memory, In-Context Editor or SmartSuggest. By providing various integration possibilities such as our API, Over the Air, and GitHub Sync, customers can easily integrate PhraseApp into their workflows. Founded in 2012, we have grown from a small start-up into a fast-paced team of 40 employees. With flat hierarchies, an agile spirit and big company goals, we always strive to improve our product. <a href="https://phraseapp.com/careers" target="_blank">We are hiring</a>!
   </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>

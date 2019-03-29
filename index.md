@@ -27,9 +27,11 @@ Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/r
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
     <a class="sponsor__logo" href="https://www.xing.com/"><img src="assets/images/sponsors/xing.svg"></a>
+    <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb"><img src="assets/images/sponsors/talent-io.png"></a>
   </div>
-  <div class="sponsor__text">Gold Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">
+    <a href="/sponsors#gold-sponsors">Gold Sponsors</a>
+  </div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
@@ -59,8 +61,12 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
     <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
     <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
   </div>
-  <div class="sponsor__text">Silver Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text">
+    <a href="/sponsors#silver-sponsors">Silver Sponsors</a>
+  </div>
+  <div class="sponsor__text">
+    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>
+  </div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
@@ -97,7 +103,7 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
 
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
-    <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+    <a class="sponsor__logo" href="https://www.toptranslation.com/" target="_blank"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
     <a class="sponsor__logo" href="https://www.akra.de/" target="_blank"><img src="assets/images/sponsors/akra.gif"></a>
     <a class="sponsor__logo" href="https://lokalportal.de" target="_blank"><img src="assets/images/sponsors/lokalportal.png"></a>
     <a class="sponsor__logo" href="https://daliaresearch.com"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
@@ -106,11 +112,10 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
     <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern"><img src="assets/images/sponsors/yogaeasy.png"></a>
   </div>
   <div class="sponsor__text">
-    Bronze Sponsors
+    <a href="/sponsors#bronze-sponsors">Bronze Sponsors</a>
   </div>
   <div class="sponsor__text">
-    We are looking for more
-    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!
+    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>
   </div>
 </div>
 
@@ -135,8 +140,12 @@ You can find the talks, pictures and everything else [here](/2018)
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19"><img src="assets/images/sponsors/stickermule.svg"></a>
   </div>
-  <div class="sponsor__text">Community Sponsors </div>
-  <div class="sponsor__text"><a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Want to become a community supporter?!</a></div>
+  <div class="sponsor__text">
+    <a href="/sponsors#community-sponsors">Community Sponsors</a>
+  </div>
+  <div class="sponsor__text">
+    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>
+  </div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

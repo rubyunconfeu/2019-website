@@ -27,6 +27,7 @@ Tickets are available via Tito: [https://ti.to/ruby-unconf/2019](https://ti.to/r
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
     <a class="sponsor__logo" href="https://www.xing.com/"><img src="assets/images/sponsors/xing.svg"></a>
+    <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb"><img src="assets/images/sponsors/talent-io.png"></a>
   </div>
   <div class="sponsor__text">Gold Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">sponsors</a>!</div>

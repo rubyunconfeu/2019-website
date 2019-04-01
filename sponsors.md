@@ -37,7 +37,9 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     talent.io is a completely free online platform for tech professionals to be visible to top tech companies when they are ready to find their next job. It is used by over 5000 tech companies across Europe as their platform to find and contact tech professionals to join their tech teams.<br/>
     No need for a CV - simply import your LinkedIn profile, have a quick chat with your personal Talent Advocate to let them know what you are looking for and when you're ready, go live for a 4-week session on the platform while you are open to finding a new job.<br/>
     On talent.io you state your desired work location, tech stack, salary expectation and desired new position upfront, so that you are contacted only with offers that are relevant to your prior experience, and where you want to go next.<br/>
-    There are no middle-men, receive offers from hiring companies directly and transparently. <a href="https://careers.talent.io/" target="_blank">Join us</a>!
+    There are no middle-men, receive offers from hiring companies directly and transparently. <br/>
+    If you're interested in being contacted directly by top tech companies for offers, find <a href="https://www.talent.io/users/sign_up?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb" target="_blank">talent.io</a> signup here!
+    Join us</a>!
   </p>
 </div>
 

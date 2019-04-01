@@ -49,7 +49,8 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
     <br />
     The "Wer liefert was" group helps small and medium-sized businesses in Europe to use digital channels for their sales and marketing activities. The company's offerings include the leading online B2B marketplace in the DACH region "Wer liefert was" (wlw) and the European platform EUROPAGES, as well as online marketing services that help companies to increase their reach on the Internet.<br />
-    The "Wer liefert was" group employs more than 300 people at the offices in Hamburg and Paris.
+    The "Wer liefert was" group employs more than 300 people at the offices in Hamburg and Paris.<br />
+    <a href="https://www.wlw.de/en/firm/careers/jobs" target="_blank">Apply to one of our positions</a>.
   </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>

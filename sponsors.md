@@ -81,7 +81,7 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
 
 ## Organization Sponsor
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+    <a class="sponsor__logo" href="https://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
   </p>
 
 </div>

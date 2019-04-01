@@ -39,7 +39,6 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     On talent.io you state your desired work location, tech stack, salary expectation and desired new position upfront, so that you are contacted only with offers that are relevant to your prior experience, and where you want to go next.<br/>
     There are no middle-men, receive offers from hiring companies directly and transparently. <br/>
     If you're interested in being contacted directly by top tech companies for offers, find <a href="https://www.talent.io/users/sign_up?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb" target="_blank">talent.io</a> signup here!
-    Join us</a>!
   </p>
 </div>
 

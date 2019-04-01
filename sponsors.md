@@ -49,8 +49,8 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
     <br />
-    Die "Wer liefert was"-Gruppe hilft kleinen und mittelständischen Unternehmen in Europa, digitale Kanäle für ihre Vertriebs- und Marketingaktivitäten zu nutzen. Zu den Angeboten des Unternehmens zählen der führende Online B2B-Marktplatz in der DACH-Region "Wer liefert was" (wlw) und die europäische Plattform EUROPAGES sowie Online-Marketing-Dienstleistungen, mit denen Unternehmen ihre Reichweite im Internet vergrößern können.<br />
-    Die "Wer liefert was"-Gruppe beschäftigt an den Standorten Hamburg und Paris über 300 Mitarbeiter.
+    The "Wer liefert was" group helps small and medium-sized businesses in Europe to use digital channels for their sales and marketing activities. The company's offerings include the leading online B2B marketplace in the DACH region "Wer liefert was" (wlw) and the European platform EUROPAGES, as well as online marketing services that help companies to increase their reach on the Internet.<br />
+    The "Wer liefert was" group employs more than 300 people at the offices in Hamburg and Paris.
   </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>

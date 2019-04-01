@@ -59,9 +59,9 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
     <br />
-    x-ion ist der Pionier für maßgeschneiderte und rechtssichere Cloud-Infrastrukturlösungen! Als Premium-Cloud-Anbieter sind wir ein persönlicher Wegbegleiter für Geschäftskunden in die Cloud.<br/>
-    Die seit 2009 kontinuierlich wachsende x-ion GmbH versteht sich mit ihren Standorten in Hamburg und Berlin als Cloud-Anbieter für passgenaue und hochqualitative Cloud- und Infrastrukturlösungen. Zusammen mit unseren Partnern konzentrieren wir uns auf die Konzeption, Entwicklung und den Betrieb technologisch herausfordernder sowie kundenindividueller Cloud-Lösungen.<br/>
-    Als Pionier im Cloud-Business gehört die produktive Nutzung und Weiterentwicklung innovativer Technologien und Frameworks zu unserem Selbstverständnis.
+    x-ion is the pioneer of tailor-made and legally compliant cloud infrastructure solutions! As a premium cloud provider, we are a reliable partner for businesses on their way into the cloud.<br/>
+    Since 2009 x-ion GmbH has been continuously growing. With our locations in Hamburg and Berlin we see ourselves as the provider for individual and high-quality cloud and infrastructure solutions. Together with our partners, we concentrate on the conception, development and operation of technologically challenging and customised solutions.<br/>
+    As a pioneer in the cloud business, the productive use and development of innovative technologies and frameworks is part of our identity - <a href="https://www.x-ion.de/karriere-x-ion/" target="_blank">we live cloud</a>!
   </p>
 
 </div>

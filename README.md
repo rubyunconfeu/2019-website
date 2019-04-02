@@ -1,10 +1,12 @@
 # The Ruby Unconf Website
 
-## Dev Setup
+## Development setup
 
-- git clone
-- bundle install
-- bundle exec jekyll serve
+```bash
+git clone
+bundle install
+bundle exec jekyll serve
+```
 
 ## Rules
 

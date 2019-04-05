@@ -104,6 +104,9 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern"><img src="assets/images/sponsors/yogaeasy.png"></a>
   </p>
+  <p class="sponsor__description" markdown="1">
+      <a class="sponsor__logo" href="https://www.shopify.com"><img src="assets/images/sponsors/shopify.svg"></a>
+  </p>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

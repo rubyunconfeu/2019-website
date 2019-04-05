@@ -110,6 +110,7 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
     <a class="sponsor__logo" href="https://www.megorei.com"><img src="assets/images/sponsors/megorei.svg"></a>
     <a class="sponsor__logo" href="https://9elements.com"><img src="assets/images/sponsors/9elements.svg"></a>
     <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern"><img src="assets/images/sponsors/yogaeasy.png"></a>
+    <a class="sponsor__logo" href="https://www.shopify.com"><img src="assets/images/sponsors/shopify.svg"></a>
   </div>
   <div class="sponsor__text">
     <a href="/sponsors#bronze-sponsors">Bronze Sponsors</a>

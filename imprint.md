@@ -9,7 +9,7 @@ title: Imprint / Impressum
 
 Ruby Unconf Hamburg is proudly presented to you by
 
-Irina Lindt, Jan Krutisch, Jan Zaydowitcz, Paul Mölders, Peter Schröder, Stefan Rohde, Waldemar Gribele
+Irina, Karsten, Jan, Stefan, Paul, Waldemar, Sören, Luka, Sarah, Stefan B. and Niklas
 
 </div>
 

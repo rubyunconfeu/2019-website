@@ -23,4 +23,8 @@ It is awesome that you want to help us with your time and talent! :rainbow:
 :shipit: Help each other to ship.  
 :+1: If it works, it works.  
 
+### Start a new website
+
+[How to start a website for a new conference](./START_NEW_WEBSITE.md)
+
 Thanks! :purple_heart:

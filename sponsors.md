@@ -53,12 +53,12 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     <a href="https://www.wlw.de/en/firm/careers/jobs" target="_blank">Apply to one of our positions</a>.
   </p>
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+    <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank"><img src="assets/images/sponsors/parrotandlogo.png"></a>
     <br />
     PhraseApp is a leading Translation Management System where localization teams come together to release translations faster and easier than ever before. PhraseApp provides a variety of features designed to improve translation quality and consistency, such as a Translation Memory, In-Context Editor or SmartSuggest. By providing various integration possibilities such as our API, Over the Air, and GitHub Sync, customers can easily integrate PhraseApp into their workflows. Founded in 2012, we have grown from a small start-up into a fast-paced team of 40 employees. With flat hierarchies, an agile spirit and big company goals, we always strive to improve our product. <a href="https://phraseapp.com/careers" target="_blank">We are hiring</a>!
   </p>
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
+    <a class="sponsor__logo" href="https://www.x-ion.de/" target="_blank"><img src="assets/images/sponsors/x-ion.svg"></a>
     <br />
     x-ion is the pioneer of tailor-made and legally compliant cloud infrastructure solutions! As a premium cloud provider, we are a reliable partner for businesses on their way into the cloud.<br/>
     Since 2009 x-ion GmbH has been continuously growing. With our locations in Hamburg and Berlin we see ourselves as the provider for individual and high-quality cloud and infrastructure solutions. Together with our partners, we concentrate on the conception, development and operation of technologically challenging and customised solutions.<br/>
@@ -93,19 +93,19 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     <a class="sponsor__logo" href="https://www.akra.de/" target="_blank"><img src="assets/images/sponsors/akra.gif"></a>
   </p>
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://daliaresearch.com"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
+    <a class="sponsor__logo" href="https://daliaresearch.com" target="_blank"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
   </p>
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.megorei.com"><img src="assets/images/sponsors/megorei.svg"></a>
+    <a class="sponsor__logo" href="https://www.megorei.com" target="_blank"><img src="assets/images/sponsors/megorei.svg"></a>
   </p>
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://9elements.com"><img src="assets/images/sponsors/9elements.svg"></a>
+    <a class="sponsor__logo" href="https://9elements.com" target="_blank"><img src="assets/images/sponsors/9elements.svg"></a>
   </p>
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern"><img src="assets/images/sponsors/yogaeasy.png"></a>
+    <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern" target="_blank"><img src="assets/images/sponsors/yogaeasy.png"></a>
   </p>
   <p class="sponsor__description" markdown="1">
-      <a class="sponsor__logo" href="https://www.shopify.com"><img src="assets/images/sponsors/shopify.svg"></a>
+      <a class="sponsor__logo" href="https://www.shopify.com" target="_blank"><img src="assets/images/sponsors/shopify.svg"></a>
   </p>
 </div>
 
@@ -113,6 +113,6 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
 
 ## Community Sponsors
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19"><img src="assets/images/sponsors/stickermule.svg"></a>
+    <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19" target="_blank"><img src="assets/images/sponsors/stickermule.svg"></a>
   </p>
 </div>

@@ -27,8 +27,8 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
 <div class="content-section" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
-    <a class="sponsor__logo" href="https://www.xing.com/"><img src="assets/images/sponsors/xing.svg"></a>
-    <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb"><img src="assets/images/sponsors/talent-io.png"></a>
+    <a class="sponsor__logo" href="https://www.xing.com/" target="_blank"><img src="assets/images/sponsors/xing.svg"></a>
+    <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb" target="_blank"><img src="assets/images/sponsors/talent-io.png"></a>
   </div>
   <div class="sponsor__text">
     <a href="/sponsors#gold-sponsors">Gold Sponsors</a>
@@ -59,8 +59,8 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
-    <a class="sponsor__logo" href="https://phraseapp.com/"><img src="assets/images/sponsors/parrotandlogo.png"></a>
-    <a class="sponsor__logo" href="https://www.x-ion.de/"><img src="assets/images/sponsors/x-ion.svg"></a>
+    <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+    <a class="sponsor__logo" href="https://www.x-ion.de/" target="_blank"><img src="assets/images/sponsors/x-ion.svg"></a>
   </div>
   <div class="sponsor__text">
     <a href="/sponsors#silver-sponsors">Silver Sponsors</a>
@@ -111,11 +111,11 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
     <a class="sponsor__logo" href="https://www.toptranslation.com/" target="_blank"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
     <a class="sponsor__logo" href="https://www.akra.de/" target="_blank"><img src="assets/images/sponsors/akra.gif"></a>
     <a class="sponsor__logo" href="https://lokalportal.de" target="_blank"><img src="assets/images/sponsors/lokalportal.png"></a>
-    <a class="sponsor__logo" href="https://daliaresearch.com"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
-    <a class="sponsor__logo" href="https://www.megorei.com"><img src="assets/images/sponsors/megorei.svg"></a>
-    <a class="sponsor__logo" href="https://9elements.com"><img src="assets/images/sponsors/9elements.svg"></a>
-    <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern"><img src="assets/images/sponsors/yogaeasy.png"></a>
-    <a class="sponsor__logo" href="https://www.shopify.com"><img src="assets/images/sponsors/shopify.svg"></a>
+    <a class="sponsor__logo" href="https://daliaresearch.com" target="_blank"><img src="assets/images/sponsors/daliaresearch.png" style="width: 140px;"></a>
+    <a class="sponsor__logo" href="https://www.megorei.com" target="_blank"><img src="assets/images/sponsors/megorei.svg"></a>
+    <a class="sponsor__logo" href="https://9elements.com" target="_blank"><img src="assets/images/sponsors/9elements.svg"></a>
+    <a class="sponsor__logo" href="https://www.yogaeasy.de/?utm_medium=events&utm_source=kooperation&utm_campaign=traffic_rubyunconf&utm_content=extern" target="_blank"><img src="assets/images/sponsors/yogaeasy.png"></a>
+    <a class="sponsor__logo" href="https://www.shopify.com" target="_blank"><img src="assets/images/sponsors/shopify.svg"></a>
   </div>
   <div class="sponsor__text">
     <a href="/sponsors#bronze-sponsors">Bronze Sponsors</a>
@@ -141,7 +141,7 @@ You can find the talks, impressions and everything else on the [website of 2018]
 
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
-    <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19"><img src="assets/images/sponsors/stickermule.svg"></a>
+    <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19" target="_blank"><img src="assets/images/sponsors/stickermule.svg"></a>
   </div>
   <div class="sponsor__text">
     <a href="/sponsors#community-sponsors">Community Sponsors</a>

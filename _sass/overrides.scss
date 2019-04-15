@@ -60,6 +60,17 @@ header {
   &--centered {
     text-align: center;
   }
+
+  .content-link {
+    border-bottom: 2px solid $main-purple;
+
+    &:hover {
+      color: white;
+      transition: all .25s ease-out;
+      text-decoration: none;
+      background-color: $main-purple;
+    }
+  }
 }
 
 footer {

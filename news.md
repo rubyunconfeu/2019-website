@@ -10,7 +10,7 @@ title: "News"
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p><time>{{ post.date | date: '%a, %d.%m.%Y' }}</time></p>
     {{ post.excerpt }}
-    <p><a class="blog-link" href="{{ post.url }}">Read more</a></p>
+    <p><a class="content-link" href="{{ post.url }}">Read more</a></p>
 </article>
 {% endfor %}
 

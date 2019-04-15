@@ -64,6 +64,10 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
     Since 2009 x-ion GmbH has been continuously growing. With our locations in Hamburg and Berlin we see ourselves as the provider for individual and high-quality cloud and infrastructure solutions. Together with our partners, we concentrate on the conception, development and operation of technologically challenging and customised solutions.<br/>
     As a pioneer in the cloud business, the productive use and development of innovative technologies and frameworks is part of our identity - <a href="https://www.x-ion.de/karriere-x-ion/" target="_blank">we live cloud</a>!
   </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.fastly.com/" target="_blank"><img src="assets/images/sponsors/fastly.svg" style="height:110px;"></a>
+    <br />
+  </p>
 
 </div>
 

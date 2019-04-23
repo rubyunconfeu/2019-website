@@ -20,6 +20,8 @@ Deutschland<br>
 <br>
 E-Mail: info@rubyunconf.eu</p>
 
+Impressum: <a href="{{ site.baseurl }}{% link imprint.md %}">https://2019.rubyunconf.eu/imprint</a>
+
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3>
 <p>- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
 - Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>

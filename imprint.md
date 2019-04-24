@@ -23,4 +23,8 @@ Ritterstraße 3a<br>
 Deutschland<br>
 
 E-Mail: <a href="mailto:info@rubyunconf.eu">info@rubyunconf.eu</a><br>
-Ust. IdNr.: DE284511032
+International VAT ID: DE284511032<br>
+
+Responsible for content:<br>
+Waldemar Gribele, Paul Mölders, Sören Krings<br>
+</div>

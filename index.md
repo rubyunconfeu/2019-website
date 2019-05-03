@@ -38,7 +38,7 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
 <div class="content-section content-section--whitebg" markdown="1">
 ## Agenda
 
-**[Real-time schedule](https://docs.google.com/spreadsheets/d/1YLiU9QU6HH_MaRT-zh_yJf6pQfUdYk59plJUwaOWciE)**
+**[Real-time schedule](https://docs.google.com/spreadsheets/d/1YLiU9QU6HH_MaRT-zh_yJf6pQfUdYk59plJUwaOWciE/edit?usp=sharing)**
   <div class="schedules-container">
     <div class="schedule">
       <h3>Saturday</h3>

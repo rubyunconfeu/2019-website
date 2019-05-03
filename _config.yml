@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ruby Unconf Hamburg 2019
-email: your-email@example.com
+email: info@rubyunconf.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the HAW Hamburg, DMI Campus Finkenau.
 keywords: ruby, unconf, conference, developers, hamburg

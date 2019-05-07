@@ -10,5 +10,19 @@ In order to use our childcare services, we ask that you register a separate, fre
 
 [Please register your free childcare ticket here.](https://ti.to/ruby-unconf/2019/with/kdogpbsdefu)
 
-We look forward to welcoming you and your children to the conference!
+# FAQ
 
+* **How many childcare professionals will take care of the kids?**
+
+  2 caretakers from [Kidsevent](http://www.kidsevent.com/) are available on both days
+
+* **Will there be any catering for the kids during the day?**
+
+  Yes, we will provide breakfast, lunch, fruits and drinks.
+
+* **Where is the childcare area located?**
+
+  In the main building of the venue, close to where the talks are happening.
+
+**We look forward to welcoming you and your children to the conference!**<br />
+If you have any further questions, please reach out to us using [twitter](https://twitter.com/rubyunconfeu) or [email](mailto:info@rubyunconf.eu).

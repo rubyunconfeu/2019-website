@@ -19,9 +19,9 @@ It is awesome that you want to help us with your time and talent! :rainbow:
 
 ### Here are some guidelines
 
-:dart: Done is better than perfect.  
-:shipit: Help each other to ship.  
-:+1: If it works, it works.  
+:dart: Done is better than perfect.
+:shipit: Help each other to ship.
+:+1: If it works, it works.
 
 ### Start a new website
 

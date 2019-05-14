@@ -10,7 +10,7 @@ In order to use our childcare services, we ask that you register a separate, fre
 
 [Please register your free childcare ticket here.](https://ti.to/ruby-unconf/2019/with/kdogpbsdefu)
 
-# FAQ
+### FAQ
 
 * **How many childcare professionals will take care of the kids?**
 
@@ -24,5 +24,6 @@ In order to use our childcare services, we ask that you register a separate, fre
 
   In the main building of the venue, close to where the talks are happening.
 
-**We look forward to welcoming you and your children to the conference!**<br />
+**We look forward to welcoming you and your children to the conference!**
+
 If you have any further questions, please reach out to us using [twitter](https://twitter.com/rubyunconfeu) or [email](mailto:info@rubyunconf.eu).

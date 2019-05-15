@@ -69,11 +69,6 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
 
 <div class="content-section" markdown="1">
 
-## Party Sponsor
-  <p class="sponsor__description" markdown="1">
-    TBA
-  </p>
-
 ## Coffee Sponsor
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://lokalportal.de" target="_blank"><img src="assets/images/sponsors/lokalportal.png"></a>

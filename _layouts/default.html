@@ -19,10 +19,10 @@
     <header>
       <nav>
         <a class="menu-button" href="https://ti.to/ruby-unconf/2019">Buy ticket</a>
-        <a class="menu-item" href="/#venue">Venue</a>
-        <a class="menu-item" href="/#schedule">Schedule</a>
-        <a class="menu-item" href="/sponsors">Sponsors</a>
-        <a class="menu-item" href="/news">News</a>
+        <a class="menu-item" href="{{ site.baseurl }}/#venue">Venue</a>
+        <a class="menu-item" href="{{ site.baseurl }}/#schedule">Schedule</a>
+        <a class="menu-item" href="{{ site.baseurl }}{% link sponsors.md %}">Sponsors</a>
+        <a class="menu-item" href="{{ site.baseurl }}{% link news.md %}">News</a>
       </nav>
       <a href="{{ site.baseurl }}/"><img src="{{ page.logo | default: "/assets/images/header-2019.svg" }}" aria-hidden="true"></a>
     </header>

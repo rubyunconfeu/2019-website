@@ -31,7 +31,7 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
     <a class="sponsor__logo" href="https://www.talent.io/?utm_source=event&utm_campaign=RubyUnConf&utm_content=talentioBlurb" target="_blank"><img src="assets/images/sponsors/talent-io.png"></a>
   </div>
   <div class="sponsor__text">
-    <a href="/sponsors#gold-sponsors">Gold Sponsors</a>
+    <a href="{{ site.baseurl }}{% link sponsors.md %}#gold-sponsors">Gold Sponsors</a>
   </div>
 </div>
 
@@ -182,7 +182,7 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
     <a class="sponsor__logo" href="https://www.x-ion.de/" target="_blank"><img src="assets/images/sponsors/x-ion.svg"></a>
   </div>
   <div class="sponsor__text">
-    <a href="/sponsors#silver-sponsors">Silver Sponsors</a>
+    <a href="{{ site.baseurl }}{% link sponsors.md %}#silver-sponsors">Silver Sponsors</a>
   </div>
   <div class="sponsor__text">
     <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>
@@ -237,7 +237,7 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
     <a class="sponsor__logo" href="https://www.shopify.com" target="_blank"><img src="assets/images/sponsors/shopify.svg"></a>
   </div>
   <div class="sponsor__text">
-    <a href="/sponsors#bronze-sponsors">Bronze Sponsors</a>
+    <a href="{{ site.baseurl }}{% link sponsors.md %}#bronze-sponsors">Bronze Sponsors</a>
   </div>
 </div>
 
@@ -263,7 +263,7 @@ You can find the talks, impressions and everything else on the [website of 2018]
     <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19" target="_blank"><img src="assets/images/sponsors/stickermule.svg"></a>
   </div>
   <div class="sponsor__text">
-    <a href="/sponsors#community-sponsors">Community Sponsors</a>
+    <a href="{{ site.baseurl }}{% link sponsors.md %}#community-sponsors">Community Sponsors</a>
   </div>
   <div class="sponsor__text">
     <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>

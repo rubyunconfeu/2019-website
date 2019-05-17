@@ -198,7 +198,7 @@ What exactly is an Unconference? It is an Barcamp style event. It works like thi
 
 We recommend to prepare slides for your talk. The talk length will be half an hour. You get the chance to pitch your talk at the beginning of each conference day. Besides talks different formats like workshops or panel discussions are welcome.
 
-Read more about [what exactly is an Unconference here](https://gist.github.com/robertkowalski/8b21484c517c54d9b80aeba1d43864c9).
+Read more about [what exactly is an Unconference here]({{ site.baseurl }}{% link _posts/2019-04-29-unconf.md %}).
 </div>
 
 <div class="content-section content-section" markdown="1">
@@ -221,8 +221,6 @@ If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to 
 ### Surroundings
 
 The Venue is right next to the Eilbekkanal, a channel that runs directly to the Alster lake ("Aussenalster") which is probably a 30 minute walk but especially worth it on a sunny spring day.
-
-Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls which includes a cinema (if you don't like partying on saturday night, for example) - Be warned though, all movies there are probably shown in german.
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">

@@ -259,6 +259,7 @@ You can find the talks, impressions and everything else on the [website of 2018]
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19" target="_blank"><img src="assets/images/sponsors/stickermule.svg"></a>
+    <a class="sponsor__logo" href="https://d-velop-nord.de/" target="_blank"><img src="assets/images/sponsors/dvelop_dark.png"></a>
   </div>
   <div class="sponsor__text">
     <a href="{{ site.baseurl }}{% link sponsors.md %}#community-sponsors">Community Sponsors</a>

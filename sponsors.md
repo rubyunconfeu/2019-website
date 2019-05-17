@@ -110,4 +110,7 @@ Please <a href="mailto:sponsoring@rubyunconf.eu">contact us</a> about sponsoring
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=RubyUnconfHamburg19" target="_blank"><img src="assets/images/sponsors/stickermule.svg"></a>
   </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://d-velop-nord.de/" target="_blank"><img src="assets/images/sponsors/dvelop.png"></a>
+  </p>
 </div>

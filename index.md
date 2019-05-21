@@ -184,9 +184,6 @@ Ruby Unconf is an inclusive unconference and as such strives to be accessible to
   <div class="sponsor__text">
     <a href="{{ site.baseurl }}{% link sponsors.md %}#silver-sponsors">Silver Sponsors</a>
   </div>
-  <div class="sponsor__text">
-    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>
-  </div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
@@ -263,9 +260,6 @@ You can find the talks, impressions and everything else on the [website of 2018]
   </div>
   <div class="sponsor__text">
     <a href="{{ site.baseurl }}{% link sponsors.md %}#community-sponsors">Community Sponsors</a>
-  </div>
-  <div class="sponsor__text">
-    <a href="https://drive.google.com/file/d/11QMNW0v7T9BrhfYtfJ7qm3It-MlTn1OT/view" target="_blank">Support the Community with a Sponsorship</a>
   </div>
 </div>
 

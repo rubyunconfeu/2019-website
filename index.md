@@ -290,9 +290,10 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
   <ul class="avatar__list">
     <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/1109848027450302470/c0kBvpp-_400x400.png"></li>
-    <li class="avatar avatar-orange"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/970686948426829825/D4rFQTU9_400x400.jpg"></li>
-    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
-    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/824642411750166528/rvoehSNV_400x400.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/970686948426829825/D4rFQTU9_400x400.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/2173945060/image_400x400.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/2173945060/image_400x400.jpg"></li>
   </ul>
 
 </div>

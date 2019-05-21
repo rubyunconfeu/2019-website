@@ -18,21 +18,6 @@ header {
       margin: 0 2vw;
       display: inline-block;
     }
-
-    .menu-button {
-      padding: 0 2vw;
-      color: white;
-      background-color: $main-purple;
-      border: 3px solid $main-purple;
-      border-radius: .25rem;
-      text-decoration: none;
-
-      &:hover {
-        color: $main-purple;
-        background-color: transparent;
-        transition: all .25s ease-out;
-      }
-    }
   }
 
   @include large {
@@ -41,6 +26,25 @@ header {
 
   @include medium {
     padding: 2rem 4rem;
+  }
+}
+
+.button {
+  padding: 0 2vw;
+  border-radius: .25rem;
+  color: white;
+  background-color: $main-purple;
+  border: 3px solid $main-purple;
+
+  &-schedule {
+    padding: 0.5vw 2vw;
+  }
+
+  &:hover {
+    color: $main-purple;
+    background-color: transparent;
+    transition: all .25s ease-out;
+    text-decoration: none;
   }
 }
 

@@ -98,8 +98,7 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
           </tr>
           <tr>
             <td class="schedule__time">20:00</td>
-            <td>Party at <a href="https://goo.gl/maps/LeKx9JqQDaYyEAxD8">HÄKKEN</a>
-            </td>
+            <td>Party at <a href="{{ site.baseurl }}{% link _posts/2019-05-17-party.md %}">HÄKKEN</a></td>
           </tr>
         </tbody>
       </table>

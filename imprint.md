@@ -3,7 +3,7 @@ layout: 'default'
 title: Imprint / Impressum
 ---
 
-<div class="content-section white-bg" markdown="1">
+<div class="content-section content-section--whitebg" markdown="1">
 
 ## Imprint / Impressum
 
@@ -13,7 +13,7 @@ Irina, Karsten, Jan, Stefan, Paul, Waldemar, Sören, Luka, Sarah, Stefan B. and 
 
 </div>
 
-<div class="content-section" markdown="1">
+<div class="content-section content-section--purplebg" markdown="1">
 
 The Ruby Unconf is organized by the BOOT e.V.
 

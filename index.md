@@ -271,6 +271,32 @@ The heart of the Ruby Unconference is people. [This guideline](https://berlincod
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 </div>
 
+<div class="content-section" markdown="1">
+## Team
+### Organizer
+
+  <ul class="avatar__list">
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/sk.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+  </ul>
+
+### MCs
+
+  <ul class="avatar__list">
+    <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/1109848027450302470/c0kBvpp-_400x400.png"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/970686948426829825/D4rFQTU9_400x400.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+  </ul>
+
+</div>
+
 <div class="content-section content-section--whitebg" markdown="1">
 ## Contact
 

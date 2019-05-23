@@ -280,11 +280,17 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
     <li class="avatar avatar-orange"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/822309015/moi_klein_160_400x400.jpg"></li>
     <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/jz.jpg"></li>
     <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/sk.jpg"></li>
-    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/asd.jpg"></li>
+  </ul>
+  <ul class="avatar__list">
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/wg.jpg"></li>
     <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/il.jpg"></li>
     <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/1609588568/eightbit__1__400x400.png"></li>
+  </ul>
+  <ul class="avatar__list">
     <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/pm.jpg"></li>
     <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/1131088445600948224/y57hJmqn_400x400.png"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/sb.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/np.jpg"></li>
   </ul>
 
 ### MCs

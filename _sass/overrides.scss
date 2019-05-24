@@ -48,6 +48,35 @@ header {
   }
 }
 
+.avatar__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.avatar {
+
+  width: 150px;
+  height: 150px;
+  margin: 15px;
+
+  &-orange {
+    background-color: $main-orange;
+  } 
+
+  &-purple {
+    background-color: $main-purple;
+  }
+
+  &-image {
+    width: 140px;
+    height: 140px;
+    margin: 0 0 10px 10px;
+  } 
+}
+
 .content-section {
   h1,
   h2,

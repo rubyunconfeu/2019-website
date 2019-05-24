@@ -271,12 +271,43 @@ The heart of the Ruby Unconference is people. [This guideline](https://berlincod
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 </div>
 
+<div class="content-section" markdown="1">
+## Team
+### Organizer
+
+  <ul class="avatar__list">
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/sl.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/822309015/moi_klein_160_400x400.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/jz.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/sk.jpg"></li>
+  </ul>
+  <ul class="avatar__list">
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/wg.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/il.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/ld.jpg"></li>
+  </ul>
+  <ul class="avatar__list">
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/pm.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/1131088445600948224/y57hJmqn_400x400.png"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/sb.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/np.jpg"></li>
+  </ul>
+
+### MCs
+
+  <ul class="avatar__list">
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/jk.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/tu.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/om.jpg"></li>
+    <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/us.jpg"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/im.jpg"></li>
+  </ul>
+
+</div>
+
 <div class="content-section content-section--whitebg" markdown="1">
 ## Contact
 
 Please contact our team at <a href="mailto:info@rubyunconf.eu">info@rubyunconf.eu</a> if you have
 any questions, remarks or ideas.
-
-<img src="assets/images/team.jpg" />
-
 </div>

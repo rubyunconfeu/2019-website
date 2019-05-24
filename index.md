@@ -284,7 +284,7 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
   <ul class="avatar__list">
     <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/wg.jpg"></li>
     <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/il.jpg"></li>
-    <li class="avatar avatar-purple"><img class="avatar-image" src="https://pbs.twimg.com/profile_images/1609588568/eightbit__1__400x400.png"></li>
+    <li class="avatar avatar-purple"><img class="avatar-image" src="/assets/images/team/ld.jpg"></li>
   </ul>
   <ul class="avatar__list">
     <li class="avatar avatar-orange"><img class="avatar-image" src="/assets/images/team/pm.jpg"></li>

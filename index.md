@@ -26,7 +26,7 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
 
 <div class="content-section content-section--whitebg" markdown="1">
 ## Schedule
-
+<br>
 <a class="button button-schedule" href="https://docs.google.com/spreadsheets/d/1YLiU9QU6HH_MaRT-zh_yJf6pQfUdYk59plJUwaOWciE/edit?usp=sharing">Real-time schedule</a>
 
   <div class="schedules-container">
@@ -35,60 +35,51 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
       <table>
         <tbody>
           <tr>
-            <td class="schedule__time">08:30 - 09:30</td>
-            <td>Registration &amp; Breakfast</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">09:30 - 09:45</td>
-            <td>Welcome</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">09:45 - 11:00</td>
-            <td>Proposals &amp; Voting</td>
-          </tr>
-          <tr>
             <td class="schedule__time">11:15 - 11:45</td>
-            <td>Keynote by <a href="https://twitter.com/hone02">@hone02</a></td>
+            <td>Keynote by <a href="https://twitter.com/hone02">Terence Lee</a></td>
+            <td>Video</td>
           </tr>
           <tr>
-            <td class="schedule__time">12:15 - 12:45</td>
-            <td>Talk F1 | Talk H1</td>
+            <td class="schedule__time">12:00 - 12:30</td>
+            <td>Death Laughter & Extreme Programming</td>
+            <td><span>Amina</span><br>Video</td>
+            <td>A brief Introduction of Kubernetes</td>
+            <td><span>Bente</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">13:00 - 13:30</td>
-            <td>Talk F2 | Talk H2</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">13:30 - 14:30</td>
-            <td>Lunch</td>
+            <td>Compiling Ruby to binary</td>
+            <td><span>Torsten</span><br>Video</td>
+            <td>Settings</td>
+            <td><span>Andreas</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">14:30 - 15:00</td>
-            <td>Talk F3 | Talk H3</td>
+            <td>Easily create interactive UIs in pure ruby</td>
+            <td><span>Jonas</span><br>Video</td>
+            <td>"👨‍👩‍👧‍👧".length == 7</td>
+            <td><span>Sven</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">15:15 - 15:45</td>
-            <td>Talk F4 | Talk H4</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">15:45 - 16:30</td>
-            <td>Coffee &amp; Cake</td>
+            <td>Building Resilient API Dependency</td>
+            <td><span>Sergey</span><br>Video</td>
+            <td>Fishbowl Discussion: Estimates? No Estimates?</td>
+            <td><span>Tina</span></td>
           </tr>
           <tr>
             <td class="schedule__time">16:30 - 17:00</td>
-            <td>Talk F5 | Talk H5</td>
+            <td>Why Soft Skills Matter in Software Development</td>
+            <td><span>Iulia</span><br>Video</td>
+            <td>Open Source Nightmare</td>
+            <td><span>Patrick</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">17:15 - 17:45</td>
-            <td>Talk F6 | Talk H6</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">17:45 - 18:00</td>
-            <td>Family photo</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">20:00</td>
-            <td>Party at <a href="{{ site.baseurl }}{% link _posts/2019-05-17-party.md %}">HÄKKEN</a></td>
+            <td>Functional Programming in Ruby</td>
+            <td><span>Matheus</span><br>Video</td>
+            <td>Fishbowl Discussion: Freelance Tools/Setup</td>
+            <td><span>Ramon</span></td>
           </tr>
         </tbody>
       </table>
@@ -98,44 +89,37 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
       <table>
         <tbody>
           <tr>
-            <td class="schedule__time">09:00 - 10:00</td>
-            <td>Registration &amp; Breakfast</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">10:00 - 11:30</td>
-            <td>Proposals &amp; Votings</td>
-          </tr>
-          <tr>
             <td class="schedule__time">11:30 - 12:00</td>
-            <td>Talk F1 | Talk H1</td>
+            <td>How do I review the code</td>
+            <td><span>Denys</span><br>Video</td>
+            <td>Rust for Rubyists (and Rubyists for Rust)</td>
+            <td><span>Paul</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">12:15 - 12:45</td>
-            <td>Talk F2 | Talk H2</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">12:45 - 13:45</td>
-            <td>Lunch</td>
+            <td>"I can't believe it's not an attribute!"</td>
+            <td><span>Stefan</span><br>Video</td>
+            <td>search_flip - Full featurable ElasticSearch Ruby Client</td>
+            <td><span>Benjamin</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">13:45 - 14:15</td>
-            <td>Talk F3 | Talk H3</td>
+            <td>Attacking own APIs to find security bugs</td>
+            <td><span>Daniel</span><br>Video</td>
+            <td>Rails Slim, An Introduction</td>
+            <td><span>Elizabeth</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">14:30 - 15:00</td>
-            <td>Talk F4 | Talk H4</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">15:00 - 15:30</td>
-            <td>Coffee &amp; Cake</td>
+            <td>How to hijack, proxy and smuggle sockets with Rack/Ruby</td>
+            <td><span>David</span><br>Video</td>
+            <td>Component-Based Rails Applications</td>
+            <td><span>Gharbi</span><br>Video</td>
           </tr>
           <tr>
             <td class="schedule__time">15:30 - 16:15</td>
             <td>Lightning Talks</td>
-          </tr>
-          <tr>
-            <td class="schedule__time">16:15 - 16:30</td>
-            <td>Closing</td>
+            <td>Videos</td>
           </tr>
         </tbody>
       </table>

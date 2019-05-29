@@ -27,11 +27,120 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
 <div class="content-section content-section--whitebg" markdown="1">
 ## Schedule
 
-<br />
 <a class="button button-schedule" href="https://docs.google.com/spreadsheets/d/1YLiU9QU6HH_MaRT-zh_yJf6pQfUdYk59plJUwaOWciE/edit?usp=sharing">Real-time schedule</a>
-<br />
-<br />
 
+  <div class="schedules-container">
+    <div class="schedule">
+      <h3>Saturday</h3>
+      <table>
+        <tbody>
+          <tr>
+            <td class="schedule__time">08:30 - 09:30</td>
+            <td>Registration &amp; Breakfast</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">09:30 - 09:45</td>
+            <td>Welcome</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">09:45 - 11:00</td>
+            <td>Proposals &amp; Voting</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">11:15 - 11:45</td>
+            <td>Keynote by <a href="https://twitter.com/hone02">@hone02</a></td>
+          </tr>
+          <tr>
+            <td class="schedule__time">12:15 - 12:45</td>
+            <td>Talk F1 | Talk H1</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">13:00 - 13:30</td>
+            <td>Talk F2 | Talk H2</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">13:30 - 14:30</td>
+            <td>Lunch</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">14:30 - 15:00</td>
+            <td>Talk F3 | Talk H3</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">15:15 - 15:45</td>
+            <td>Talk F4 | Talk H4</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">15:45 - 16:30</td>
+            <td>Coffee &amp; Cake</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">16:30 - 17:00</td>
+            <td>Talk F5 | Talk H5</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">17:15 - 17:45</td>
+            <td>Talk F6 | Talk H6</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">17:45 - 18:00</td>
+            <td>Family photo</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">20:00</td>
+            <td>Party at <a href="{{ site.baseurl }}{% link _posts/2019-05-17-party.md %}">HÄKKEN</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="schedule">
+      <h3>Sunday</h3>
+      <table>
+        <tbody>
+          <tr>
+            <td class="schedule__time">09:00 - 10:00</td>
+            <td>Registration &amp; Breakfast</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">10:00 - 11:30</td>
+            <td>Proposals &amp; Votings</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">11:30 - 12:00</td>
+            <td>Talk F1 | Talk H1</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">12:15 - 12:45</td>
+            <td>Talk F2 | Talk H2</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">12:45 - 13:45</td>
+            <td>Lunch</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">13:45 - 14:15</td>
+            <td>Talk F3 | Talk H3</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">14:30 - 15:00</td>
+            <td>Talk F4 | Talk H4</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">15:00 - 15:30</td>
+            <td>Coffee &amp; Cake</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">15:30 - 16:15</td>
+            <td>Lightning Talks</td>
+          </tr>
+          <tr>
+            <td class="schedule__time">16:15 - 16:30</td>
+            <td>Closing</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">

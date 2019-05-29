@@ -124,13 +124,11 @@ If you are the first time in Hamburg we have some tipps for getting around here 
 </div>
 
 <div class="content-section" markdown="1">
-## 2018
+## Family Photo
 
-The first Ruby Unconf Hamburg was a blast.
+The Ruby Unconf 2019 Hamburg was a blast.
 
-[![2018 impression](https://lh3.googleusercontent.com/n4xMai045Dd5mhbMKteHG30SBljmrolwWKhqUcgXC6a7ubVzHrqiVzEN1pVyVH3qgJqVGPgtrh22v-jKz6hkf5aEPpl0FeIJuLaHz8MYT1UhA2WK1G_NIpzWuY4n6T4wCdKQrARKbA=w1200)](/2018)
-
-You can find the talks, impressions and everything else on the [website of 2018](https://2018.rubyunconf.eu).
+![Family Photo](assets/images/family_photo.jpg)
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">

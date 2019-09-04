@@ -7,9 +7,9 @@ title: "Ruby Unconf Hamburg 2019"
 
 ## 2019
 
-Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Hamburg, DMI Campus Finkenau](#venue).
+Ruby Unconf Hamburg 2019 took place on 25th and 26th of May 2019 at the [HAW Hamburg, DMI Campus Finkenau](#venue).
 
-[Follow us on Twitter](https://twitter.com/RubyUnconfEU) and have a look at our [latest news]({{ site.baseurl }}{% link news.md %}) to stay up to date.
+[Follow us on Twitter](https://twitter.com/RubyUnconfEU), watch [the talks on Youtube](https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug/videos) and have a look at our [latest news]({{ site.baseurl }}{% link news.md %}).
 
 </div>
 
@@ -36,50 +36,50 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
         <tbody>
           <tr>
             <td class="schedule__time">11:15 - 11:45</td>
-            <td>Keynote by <a href="https://twitter.com/hone02">Terence Lee</a></td>
-            <td>Video</td>
+            <td>Keynote - by <a href="https://twitter.com/hone02">Terence Lee</a></td>
+            <td><a href="https://www.youtube.com/watch?v=I9aip9qoXew">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">12:00 - 12:30</td>
-            <td>Death Laughter & Extreme Programming</td>
-            <td><span>Amina</span><br>Video</td>
-            <td>A brief Introduction of Kubernetes</td>
-            <td><span>Bente</span><br>Video</td>
+            <td>Death Laughter & Extreme Programming - by <span>Amina</span></td>
+            <td><a href="https://www.youtube.com/watch?v=bNg6zMiOOR8">Video</a></td>
+            <td>A brief Introduction of Kubernetes - by <span>Bente</span></td>
+            <td><a href="https://www.youtube.com/watch?v=cQPTF7zERvk">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">13:00 - 13:30</td>
-            <td>Compiling Ruby to binary</td>
-            <td><span>Torsten</span><br>Video</td>
-            <td>Settings</td>
-            <td><span>Andreas</span><br>Video</td>
+            <td>Compiling Ruby to binary - by <span>Torsten</span></td>
+            <td><a href="https://www.youtube.com/watch?v=ojW-q_wiSn8">Video</a></td>
+            <td>Settings - by <span>Andreas</span></td>
+            <td><a href="https://www.youtube.com/watch?v=jRByM1rZLXM">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">14:30 - 15:00</td>
-            <td>Easily create interactive UIs in pure ruby</td>
-            <td><span>Jonas</span><br>Video</td>
-            <td>"👨‍👩‍👧‍👧".length == 7</td>
-            <td><span>Sven</span><br>Video</td>
+            <td>Easily create interactive UIs in pure ruby - by <span>Jonas</span></td>
+            <td><a href="https://www.youtube.com/watch?v=OY5AeGhgK7I">Video</a></td>
+            <td>"👨‍👩‍👧‍👧".length == 7 - by <span>Sven</span></td>
+            <td><a href="https://www.youtube.com/watch?v=mJkzMoEd_Wo">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">15:15 - 15:45</td>
-            <td>Building Resilient API Dependency</td>
-            <td><span>Sergey</span><br>Video</td>
-            <td>Fishbowl Discussion: Estimates? No Estimates?</td>
-            <td><span>Tina</span></td>
+            <td>Building Resilient API Dependency - by <span>Sergey</span></td>
+            <td><a href="https://www.youtube.com/watch?v=6gOV6WbvksQ">Video</a></td>
+            <td>Fishbowl Discussion: Estimates? No Estimates? - by <span>Tina</span></td>
+            <td></td>
           </tr>
           <tr>
             <td class="schedule__time">16:30 - 17:00</td>
-            <td>Why Soft Skills Matter in Software Development</td>
-            <td><span>Iulia</span><br>Video</td>
-            <td>Open Source Nightmare</td>
-            <td><span>Patrick</span><br>Video</td>
+            <td>Why Soft Skills Matter in Software Development - by <span>Iulia</span></td>
+            <td><a href="https://www.youtube.com/watch?v=YAZC8NEJQ_w">Video</a></td>
+            <td>Open Source Nightmare - by <span>Patrick</span></td>
+            <td><a href="https://www.youtube.com/watch?v=XSrYfXDoXNc">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">17:15 - 17:45</td>
-            <td>Functional Programming in Ruby</td>
-            <td><span>Matheus</span><br>Video</td>
-            <td>Fishbowl Discussion: Freelance Tools/Setup</td>
-            <td><span>Ramon</span></td>
+            <td>Functional Programming in Ruby - by <span>Matheus</span></td>
+            <td>Video</td>
+            <td>Fishbowl Discussion: Freelance Tools/Setup - by <span>Ramon</span></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
@@ -90,36 +90,36 @@ Ruby Unconf Hamburg 2019 will happen on 25th and 26th of May 2019 at the [HAW Ha
         <tbody>
           <tr>
             <td class="schedule__time">11:30 - 12:00</td>
-            <td>How do I review the code</td>
-            <td><span>Denys</span><br>Video</td>
-            <td>Rust for Rubyists (and Rubyists for Rust)</td>
-            <td><span>Paul</span><br>Video</td>
+            <td>How do I review the code - by <span>Denys</span></td>
+            <td><a href="https://www.youtube.com/watch?v=5FUrNaoEImI">Video</a></td>
+            <td>Rust for Rubyists (and Rubyists for Rust) - by <span>Paul</span></td>
+            <td><a href="https://www.youtube.com/watch?v=m3HpNs-_MVI">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">12:15 - 12:45</td>
-            <td>"I can't believe it's not an attribute!"</td>
-            <td><span>Stefan</span><br>Video</td>
-            <td>search_flip - Full featurable ElasticSearch Ruby Client</td>
-            <td><span>Benjamin</span><br>Video</td>
+            <td>"I can't believe it's not an attribute!" - by <span>Stefan</span></td>
+            <td><a href="https://www.youtube.com/watch?v=AFw9__q0Weg">Video</a></td>
+            <td>search_flip - Full featurable ElasticSearch Ruby Client - by <span>Benjamin</span></td>
+            <td><a href="https://www.youtube.com/watch?v=-fVabmi8C-I">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">13:45 - 14:15</td>
-            <td>Attacking own APIs to find security bugs</td>
-            <td><span>Daniel</span><br>Video</td>
-            <td>Rails Slim, An Introduction</td>
-            <td><span>Elizabeth</span><br>Video</td>
+            <td>Attacking own APIs to find security bugs - by <span>Daniel</span></td>
+            <td><a href="https://www.youtube.com/watch?v=lGDETbe0b6w">Video</a></td>
+            <td>Rails Slim, An Introduction - by <span>Elizabeth</span></td>
+            <td><a href="https://www.youtube.com/watch?v=HqzSLVOwdnY">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">14:30 - 15:00</td>
-            <td>How to hijack, proxy and smuggle sockets with Rack/Ruby</td>
-            <td><span>David</span><br>Video</td>
-            <td>Component-Based Rails Applications</td>
-            <td><span>Gharbi</span><br>Video</td>
+            <td>How to hijack, proxy and smuggle sockets with Rack/Ruby - by <span>David</span></td>
+            <td><a href="https://www.youtube.com/watch?v=ghs6uoPAuMQ">Video</a></td>
+            <td>Component-Based Rails Applications - by <span>Gharbi</span></td>
+            <td><a href="https://www.youtube.com/watch?v=mQignvxjVXY">Video</a></td>
           </tr>
           <tr>
             <td class="schedule__time">15:30 - 16:15</td>
             <td>Lightning Talks</td>
-            <td>Videos</td>
+            <td></td>
           </tr>
         </tbody>
       </table>

@@ -77,7 +77,7 @@ Ruby Unconf Hamburg 2019 took place on 25th and 26th of May 2019 at the [HAW Ham
           <tr>
             <td class="schedule__time">17:15 - 17:45</td>
             <td>Functional Programming in Ruby - by <span>Matheus</span></td>
-            <td>Video</td>
+            <td><a href="https://www.youtube.com/watch?v=Rg5nPwgIo90">Video</a></td>
             <td>Fishbowl Discussion: Freelance Tools/Setup - by <span>Ramon</span></td>
             <td></td>
           </tr>
